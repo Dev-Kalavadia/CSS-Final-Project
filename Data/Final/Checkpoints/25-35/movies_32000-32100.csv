@@ -1,0 +1,67 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+Sweeney Todd: The Demon Barber of Fleet Street,86,81,84,"['Musical', 'Mystery & Thriller', 'Crime', 'Drama']",R,1h 57m,2007,"['Johnny Depp', 'Helena Bonham Carter', 'Alan Rickman', 'Timothy Spall', 'Sacha Baron Cohen']",['Tim Burton']
+Annie,29,59,39,"['Kids & Family', 'Musical', 'Comedy']",PG,1h 58m,2014,"['Jamie Foxx', 'Quvenzhané Wallis', 'Rose Byrne', 'Bobby Cannavale', 'Adewale Akinnuoye-Agbaje']",['Will Gluck']
+Big Driver,50,29,42,['Mystery & Thriller'],TV14,1h 30m,2014,"['Maria Bello', 'Olympia Dukakis', 'Joan Jett', 'Will Harris', 'Ann Dowd']",['Mikael Salomon']
+The Discoverers,85,54,74,"['Comedy', 'Drama']",,1h 44m,2012,"['Griffin Dunne', 'Madeleine Martin', 'Devon Graye', 'John C. McGinley', 'Dreama Walker']",['Justin Schwarz']
+Beyond the Lights,84,75,81,"['Drama', 'Romance']",PG-13,1h 56m,2014,"['Gugu Mbatha-Raw', 'Nate Parker', 'Minnie Driver', 'Danny Glover', 'Machine Gun Kelly']",['Gina Princebythewood']
+A Most Violent Year,90,69,83,"['Crime', 'Drama', 'Mystery & Thriller']",R,2h 4m,2014,"['Oscar Isaac', 'Jessica Chastain', 'David Oyelowo', 'Alessandro Nivola', 'Albert Brooks']",['Jc Chandor']
+Documented,75,66,72,['Documentary'],,1h 29m,2013,"['Jose Antonio Vargas', 'Ann Lupo', 'Jose Antonio Vargas']","['Jose Antonio Vargas', 'Ann Lupo 2']"
+Monkey Kingdom,93,76,87,['Documentary'],G,1h 22m,2015,"['Tina Fey', 'Mark Linfield', 'Alastair Fothergill', 'Mark Linfield', 'Mark Linfield']","['Mark Linfield 57', 'Alastair Fothergill']"
+Preservation,50,23,40,"['Mystery & Thriller', 'Horror']",,1h 30m,2014,"['Wrenn Schmidt', 'Pablo Schreiber', 'Aaron Staton', 'Cody Saintgnue', 'Nick Saso']",['Christopher Denham']
+Black or White,39,65,47,['Drama'],PG-13,2h 1m,2014,"['Kevin Costner', 'Octavia Spencer', 'Jillian Estell', 'Bill Burr', 'Mpho Koaho']",['Mike Binder']
+Being Evel,98,83,93,"['Documentary', 'Biography']",,1h 42m,2015,"['Daniel Junge', 'Daniel Junge', 'Davis Coombe', 'Johnny Knoxville', 'Mat Hoffman']",['Daniel Junge']
+Spy,95,78,89,"['Comedy', 'Action']",R,1h 55m,2015,"['Melissa McCarthy', 'Jason Statham', 'Rose Byrne', 'Miranda Hart', 'Bobby Cannavale']",['Paul Feig']
+Laggies,65,50,59,"['Comedy', 'Drama', 'Romance']",R,1h 40m,2014,"['Keira Knightley', 'Chloë Grace Moretz', 'Sam Rockwell', 'Ellie Kemper', 'Mark Webber']",['1187785 Lynn Shelton']
+Society,64,60,62,['Horror'],R,1h 39m,1989,"['Billy Warlock', 'Devin DeVasquez', 'Evan Richards', 'Ben Meyerson', 'Charles Lucia']",['Brian Yuzna']
+Seymour: An Introduction,100,79,92,['Documentary'],PG,1h 21m,2014,"['Seymour Bernstein', 'Ethan Hawke', 'Ethan Hawke', 'Greg Loser', 'Heather Smith']",['Ethan Hawke']
+Come Blow Your Horn,75,61,70,['Comedy'],,1h 52m,1963,"['Frank Sinatra', 'Lee J. Cobb', 'Molly Picon', 'Barbara Rush', 'Jill St. John']",['Bud Yorkin']
+Danny Collins,78,73,76,"['Comedy', 'Drama']",R,1h 46m,2015,"['Al Pacino', 'Annette Bening', 'Jennifer Garner', 'Bobby Cannavale', 'Christopher Plummer']",['Dan Fogelman']
+Narcopolis,18,25,20,"['Mystery & Thriller', 'Sci-Fi']",,1h 36m,2014,"['Elliot Cowan', 'Elodie Yung', 'Jonathan Pryce', 'Robert Bathurst', 'James Callis']",['Justin Trefgarne 20']
+Batkid Begins: The Wish Heard Around the World,82,83,82,['Documentary'],PG,1h 29m,2015,"['Dana Nachman', 'Dana Nachman', 'Kurt Kuenne', 'Liza Meak', 'Dana Nachman']",['Dana Nachman']
+Yakona,71,100,80,"['Documentary', 'History', 'Drama']",,1h 25m,2014,"['Jeremy Gutierrez', 'Jacqueline Claire', 'Tina Rodriguez', 'Geoff Marslett', 'Paul Collins']","['Paul Collins', 'Anlo Sepulveda']"
+50 Ways of Saying Fabulous,30,49,36,['Drama'],,1h 30m,2005,"['Andrew Paterson', 'Harriet Beattie', 'Jay Collins', 'Rima Te Wiata', 'Michael Dorman']",['Stewart Main']
+He Named Me Malala,73,72,72,['Documentary'],PG-13,1h 27m,2015,"['Malala Yousafzai', 'Davis Guggenheim', 'Walter F. Parkes', 'Laurie MacDonald', 'Mohamed Al Mubarak']",['Davis Guggenheim']
+Balto,56,70,60,"['Kids & Family', 'Adventure', 'Animation']",G,1h 17m,1995,"['Miriam Margolyes', 'Lola Bates-Campbell', 'Kevin Bacon', 'Bob Hoskins', 'Bridget Fonda']",['Simon Wells']
+I Got the Hook-Up,17,64,32,['Comedy'],R,1h 33m,1998,"['Master P', 'Anthony Johnson', 'Gretchen Palmer', 'Frantz Turner', 'Tommy Tiny Lister']",['Michael Martin']
+"Mission: Impossible - Dead Reckoning, Part One",96,94,95,"['Action', 'Adventure', 'Mystery & Thriller']",PG-13,2h 43m,2023,"['Tom Cruise', 'Hayley Atwell', 'Ving Rhames', 'Simon Pegg', 'Rebecca Ferguson']",['Christopher Mcquarrie']
+This Gun for Hire,94,81,89,"['Crime', 'Drama']",,1h 20m,1942,"['Alan Ladd', 'Veronica Lake', 'Robert Preston', 'Laird Cregar', 'Tully Marshall']",['Frank Tuttle']
+5 to 7,70,70,70,['Romance'],R,1h 38m,2014,"['Anton Yelchin', 'Bérénice Marlohe', 'Lambert Wilson', 'Olivia Thirlby', 'Frank Langella']",['Victor Levin']
+Girl Most Likely,23,33,26,['Comedy'],PG-13,1h 42m,2012,"['Kristen Wiig', 'Annette Bening', 'Matt Dillon', 'Darren Criss', 'Christopher Fitzgerald']","['Shari Springer Berman', 'Robert Pulcini']"
+Hulk Vs.,100,67,88,"['Action', 'Fantasy', 'Animation']",PG-13,1h 18m,2009,"['Steve Blum', 'Bryce Johnson', 'Fred Tatasciore', 'Graham McTavish', 'Grey DeLisle']","['Sam Liu', 'Frank Paur']"
+Safelight,0,37,12,['Drama'],R,1h 24m,2015,"['Evan Peters', 'Juno Temple', 'Kevin Alejandro', 'Christine Lahti', 'Jason Beghe']",['Tony Aloupis']
+Turbo Kid,91,77,86,"['Action', 'Adventure', 'Sci-Fi', 'Comedy']",,1h 35m,2015,"['Munro Chambers', 'Laurence Leboeuf', 'Edwin Wright', 'Aaron Jeffery', 'Romano Orzari']","['Anouk Whissell', 'Francois Simard', 'Yoann Karl Whissell']"
+The Longest Ride,31,71,44,"['Drama', 'Romance']",PG-13,2h 8m,2015,"['Scott Eastwood', 'Britt Robertson', 'Alan Alda', 'Jack Huston', 'Oona Chaplin']",['George Tillman Jr']
+Batman vs. Robin,100,78,92,"['Action', 'Adventure', 'Animation']",PG-13,1h 19m,2015,"[""Jason O'Mara"", 'Stuart Allan', 'David McCallum', 'Sean Maher', 'Jeremy Sisto']",['Jay Oliva']
+A Woman's Work: The NFL's Cheerleader Problem,81,80,80,['Documentary'],,1h 20m,2019,"['Yu Gu', 'Elizabeth Ai', 'Elizabeth Ai']",['Yu Gu 2']
+Patch Town,75,58,69,"['Fantasy', 'Musical']",,1h 24m,2014,"['Zoie Palmer', 'Rob Ramsay', 'Stephanie Pitsiladis', 'Ken Hall', 'Julian Richings']",['Craig Goodwill']
+Retreat,62,40,54,"['Mystery & Thriller', 'Sci-Fi']",R,1h 30m,2011,"['Cillian Murphy', 'Jamie Bell', 'Thandiwe Newton', 'Jimmy Yuill', 'Marilyn Mantle']",['Carl Tibbetts']
+Cane Toads: An Unnatural History,88,90,88,['Documentary'],,47m,1988,"['Mark Lewis', 'Mark Lewis', 'Tristram Miall', 'Martin Armiger', 'Jim Frazier']",['Mark Lewis 6']
+Blumenthal,56,50,53,['Comedy'],,1h 36m,2013,"['Brian Cox', 'Bill Sage', 'Fred Melamed', 'Laila Robins', 'Mei Melancon']",['Seth Fisher 28']
+Bye Bye Birdie,86,66,79,"['Musical', 'Comedy']",G,1h 52m,1963,"['Dick Van Dyke', 'Janet Leigh', 'Ann-Margret', 'Maureen Stapleton', 'Bobby Rydell']",['George Sidney']
+Particle Fever,96,83,91,['Documentary'],,1h 37m,2013,"['Martin Aleksa', 'Nima Arkani-Hamed', 'Savas Dimopoulos', 'Monica Dunford', 'Fabiola Gianotti']",['Mark Levinson 3']
+A LEGO Brickumentary,54,64,57,['Documentary'],G,1h 32m,2014,"['Jason Bateman', 'Daniel Junge', 'Kief Davidson', 'Daniel Junge', 'Davis Coombe']","['Daniel Junge', '1168117 Kief Davidson']"
+Justice League vs. Teen Titans,80,66,75,"['Action', 'Fantasy', 'Animation']",PG-13,1h 18m,2016,"['Sean Maher', 'Stuart Allan', 'Jon Bernthal', 'Taissa Farmiga', 'Jake T. Austin']",['Sam Liu']
+Inferno,20,27,22,['Mystery & Thriller'],R,1h 37m,1999,"['Ray Liotta', 'Gloria Reuben', 'Armin Mueller-Stahl', 'Julian Busio', 'Álvaro Carcaño']",['Harley Cokliss']
+Trouble Dolls,43,19,35,"['Comedy', 'Drama']",,1h 18m,2014,"['Jess Weixler', 'Jennifer Prediger', 'Megan Mullally', 'Will Forte', 'Jeffrey Tambor']","['Jennifer Prediger', 'Jess Wexler']"
+The Inbetweeners 2,69,60,66,['Comedy'],,1h 36m,2014,"['James Buckley', 'Joe Thomas', 'Simon Bird', 'Blake Harrison', 'Freddie Stroma']","['Damon Beesley', 'Iain Morris']"
+The Wedding Ringer,29,63,40,['Comedy'],R,1h 41m,2015,"['Kevin Hart', 'Josh Gad', 'Affion Crockett', 'Kaley Cuoco', 'Jorge Garcia']",['Jeremy Garelick']
+Felt,63,38,54,"['Mystery & Thriller', 'Horror']",,1h 20m,2014,"['Amy Everson', 'Kentucker Audley', 'Roxanne Lauren Knouse', 'Alanna Reynolds', 'Ryan Creighton']",['Jason Banker']
+Stagecoach,100,86,95,['Western'],,1h 36m,1939,"['John Wayne', 'Claire Trevor', 'Andy Devine', 'John Carradine', 'Thomas Mitchell']",['John Ford']
+Fury,76,84,78,"['War', 'History', 'Drama']",R,2h 14m,2014,"['Brad Pitt', 'Shia LaBeouf', 'Logan Lerman', 'Michael Peña', 'Jon Bernthal']",['David Ayer']
+Project X,29,61,39,['Comedy'],R,1h 28m,2012,"['Thomas Mann', 'Oliver Cooper', 'Jonathan Daniel Brown', 'Dax Flame', 'Kirby Bliss Blanton']",['Nima Nourizadeh']
+MILF,13,29,18,"['Comedy', 'Romance']",,1h 36m,2018,"['Axelle Laffont', 'Virginie Ledoyen', 'Marie-Josée Croze', 'Waël Sersoub', 'Victor Meutelet']",['Axelle Lafont']
+Code Black,88,80,85,"['Documentary', 'Drama']",,1h 22m,2013,"['Alison Martin', 'William ""Billy"" Mallon', 'Ryan McGarry', 'Ryan McGarry', 'Joshua Altman']",['Ryan Mcgarry']
+The Heart Machine,95,48,79,"['Drama', 'Mystery & Thriller']",,1h 25m,2014,"['John Gallagher Jr.', 'Kate Lyn Sheil', 'David Call', 'Louisa Krause', 'Libby Woodbridge']",['Zachary Wigon']
+Tombstone,72,94,79,"['Western', 'Action']",R,2h 7m,1993,"['Kurt Russell', 'Val Kilmer', 'Michael Biehn', 'Powers Boothe', 'Robert John Burke']",['George P Cosmatos']
+Ricki and the Flash,65,43,57,"['Comedy', 'Drama']",PG-13,1h 40m,2015,"['Meryl Streep', 'Kevin Kline', 'Rick Springfield', 'Mamie Gummer', 'Audra McDonald']",['Jonathan Demme']
+Monk With a Camera: The Life and Journey of Nicholas Vreeland,82,67,77,['Documentary'],,1h 30m,2014,"['Tina Mascara', 'Guido Santi', 'Vishwanath Alluri', 'Tina Mascara', 'Guido Santi']","['Tina Mascara', 'Guido Santi']"
+Jake Squared,22,38,27,"['Comedy', 'Drama']",R,1h 40m,2013,"['Elias Koteas', 'Jennifer Jason Leigh', 'Virginia Madsen', 'Jane Seymour', 'Mike Vogel']",['Howard Goldberg']
+The Layover,0,21,7,['Comedy'],R,1h 28m,2017,"['Alexandra Daddario', 'Kate Upton', 'Matt Barr', 'Matt L. Jones', 'Molly Shannon']",['William H Macy']
+Meru,88,91,89,['Documentary'],R,1h 30m,2015,"['Jon Krakauer', 'Jimmy Chin', 'Renan Ozturk', 'Grace Chin', 'Conrad Anker']","['Jimmy Chin', 'Elizabeth Chai Vasarhelyi']"
+Palmetto,39,31,36,['Mystery & Thriller'],R,1h 54m,1998,"['Woody Harrelson', 'Elisabeth Shue', 'Gina Gershon', 'Rolf Hoppe', 'Michael Rapaport']",['Volker Schlondorff']
+"One Cut, One Life",100,36,78,['Biography'],,1h 47m,2014,"['Ed Pincus', 'Lucia Small', 'Ed Pincus', 'Lucia Small', 'Neal Baer']","['Ed Pincus', 'Lucia Small']"
+9 Full Moons,83,71,79,"['Drama', 'Romance']",,1h 43m,2013,"['Amy Seimetz', 'Bret Roberts', 'Donal Logue', 'Brian McGuire', 'Dale Dickey']",['Tomer Almagor']
+Innocence,19,33,23,"['Horror', 'Mystery & Thriller']",PG-13,1h 36m,2013,"['Kelly Reilly', 'Sophie Lane Curtis', 'Graham Phillips', 'Linus Roache', 'Stephanie March']",['Hilary Brougher']
+The First Grader,62,76,66,"['Drama', 'Biography']",PG-13,1h 39m,2010,"['Naomie Harris', 'Oliver Litondo', 'Tony Kgoroge', 'Sam Feuer', 'Nick Reding']",['Justin Chadwick']
+Storyville,67,22,52,"['Crime', 'Drama']",R,1h 50m,1992,"['James Spader', 'Joanne Whalley', 'Jason Robards', 'Charlotte Lewis', 'Michael Warren']",['1044806 Mark Frost']
+Private Peaceful,63,56,60,"['Drama', 'War']",,1h 40m,2012,"[""Jack O'Connell"", 'Richard Griffiths', 'Maxine Peake', 'Frances de la Tour', 'Alexandra Roach']",['Pat Oconnor']

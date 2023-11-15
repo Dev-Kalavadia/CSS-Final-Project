@@ -1,0 +1,45 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+Who Is Arthur Chu?,78,80,78,['Documentary'],,1h 30m,2017,"['Alex Trebek', 'Arthur Chu', 'Scott J. Drucker', 'Yu Gu', 'Scott J. Drucker']","['Scott J Drucker', 'Yu Gu 2']"
+Blood Beach,13,24,16,['Horror'],R,1h 29m,1981,"['John Saxon', 'David Huffman', 'Marianna Hill', 'Otis Young', 'Stefan Gierasch']",['Jeffrey Bloom']
+Amateur,60,67,62,['Drama'],,1h 36m,2018,"['Michael Rainey Jr.', 'Josh Charles', 'Brian White', 'Sharon Leal', 'Corey Parker Robinson']",['Ryan Koo']
+Asterix: The Secret of the Magic Potion,65,71,67,"['Kids & Family', 'Adventure', 'Animation']",,1h 25m,2018,"['Christian Clavier', 'Guillaume Briat', 'Bernard Alane', 'Alex Lutz', 'Alexandre Astier']","['Alexandre Astier', 'Louis Clichy']"
+All in This Tea,85,80,83,['Documentary'],,1h 10m,2007,"['Les Blank', 'Gina Leibrecht', 'Les Blank', 'Gina Leibrecht', 'Les Blank']","['Les Blank', 'Gina Leibrecht']"
+Middle of Nowhere,88,64,80,"['Drama', 'Romance']",R,1h 41m,2012,"['Emayatzy Corinealdi', 'David Oyelowo', 'Omari Hardwick', 'Lorraine Toussaint', 'Edwina Findley']",['Ava Duvernay']
+The Scent of Rain & Lightning,100,83,94,"['Mystery & Thriller', 'Western']",R,1h 40m,2017,"['Maggie Grace', 'Maika Monroe', 'Justin Chatwin', 'Mark Webber', 'Bonnie Bedelia']",['Blake Robbins']
+Euphoria,19,34,24,"['Drama', 'Adventure', 'Mystery & Thriller']",R,1h 38m,2017,"['Alicia Vikander', 'Eva Green', 'Charlotte Rampling', 'Charles Dance', 'Adrian Lester']",['Lisa Langseth']
+Isle of Dogs,90,87,89,"['Comedy', 'Adventure', 'Animation']",PG-13,1h 41m,2018,"['Bryan Cranston', 'Ed Norton', 'Scarlett Johansson', 'Bill Murray', 'Liev Schreiber']",['Wes Anderson']
+Midnight Crossing,40,38,39,['Adventure'],R,1h 37m,1988,"['Faye Dunaway', 'Daniel J. Travanti', 'Kim Cattrall', 'Ned Beatty', 'John Laughlin']",['Roger Holzberg']
+Heroic Trio 2: Executioners,80,46,68,['Fantasy'],,1h 37m,1993,"['Maggie Cheung', 'Michelle Yeoh', 'Anita Mui', 'Damian Lau', 'Anthony Chau-Sang Wong']","['Tony Ching', 'Johnny To']"
+Ocean's 8,68,47,60,"['Comedy', 'Crime', 'Drama']",PG-13,1h 50m,2018,"['Sandra Bullock', 'Cate Blanchett', 'Anne Hathaway', 'Helena Bonham Carter', 'Mindy Kaling']",['Gary Ross']
+Saving Brinton,93,78,88,['Documentary'],,1h 30m,2017,"['Serge Bromberg', 'Kathryn Fuller-Seeley', 'George R. Willeman', 'Tommy Haines', 'Andrew Sherburne']","['Tommy Haines', 'Andrew Sherburne']"
+Bel Canto,47,44,46,"['Mystery & Thriller', 'Drama']",,1h 42m,2018,"['Julianne Moore', 'Ken Watanabe', 'Tenoch Huerta', 'Sebastian Koch', 'Christopher Lambert']",['Paul Weitz']
+A Christmas Prince: The Royal Wedding,50,37,45,"['Holiday', 'Romance']",TVPG,1h 30m,2018,"['Rose McIver', 'Ben Lamb', 'Alice Krige', 'Richard Ashton', 'Clara Ciobanu']",['John Schultz']
+King of Devil's Island,94,88,92,"['History', 'Drama', 'Action']",,1h 52m,2010,"['Benjamin Helstad', 'Stellan Skarsgård', 'Kristoffer Joner', 'Trond Nilssen', 'Magnus Langlete']",['Marius Holst']
+Nancy,86,55,75,"['Mystery & Thriller', 'Drama']",,1h 27m,2018,"['Andrea Riseborough', 'J. Smith-Cameron', 'Steve Buscemi', 'Ann Dowd', 'John Leguizamo']",['Christina Choe']
+Universal Soldier: Day of Reckoning,57,34,49,"['Action', 'Sci-Fi']",R,1h 53m,2012,"['Jean-Claude Van Damme', 'Dolph Lundgren', 'Scott Adkins', 'Kristopher Van Varenberg', 'David Jensen']",['John Hyams']
+The Storm Within,100,75,91,['Drama'],,1h 45m,1949,"['Jean Marais', 'Josette Day', 'Yvonne de Bray', 'Gabrielle Dorziat', 'Marcel André']",['Jean Cocteau']
+The Cabin in the Woods,92,74,86,"['Horror', 'Comedy']",R,1h 35m,2011,"['Kristen Connolly', 'Chris Hemsworth', 'Anna Hutchison', 'Fran Kranz', 'Jesse Williams']",['Drew Goddard']
+Always at the Carlyle,58,66,60,['Documentary'],PG-13,1h 32m,2018,"['George Clooney', 'Sofia Coppola', 'Tommy Lee Jones', 'Jeff Goldblum', 'Anjelica Huston']",['Matthew Miele']
+Stella's Last Weekend,68,66,67,"['Romance', 'Comedy', 'Drama']",,1h 42m,2018,"['Nat Wolff', 'Alex Wolff', 'Polly Draper', 'Paulina Singer', 'Nick Sandow']",['Polly Draper']
+Witchfinder General,88,66,80,['Horror'],,1h 38m,1968,"['Vincent Price', 'Ian Ogilvy', 'Hilary Heath', 'Rupert Davies', 'Robert Russell']",['Michael Reeves']
+Becoming Iconic,50,99,66,['Documentary'],,1h 30m,2018,"['Jodie Foster', 'Jonathan Baker', 'Taylor Hackford', 'Adrian Lyne', 'John Badham']",['Neal Thibedeau']
+Keep the Change,100,82,93,"['Romance', 'Comedy']",,1h 34m,2017,"['Brandon Polansky', 'Samantha Elisofon', 'Jessica Walter', 'Tibor Feldman', 'Christina Brucato']",['Rachel Israel']
+Overboard,24,54,34,"['Romance', 'Comedy']",PG-13,1h 52m,2018,"['Eugenio Derbez', 'Anna Faris', 'Eva Longoria', 'John Hannah', 'Emily Maddison']",['Rob Greenberg']
+Ricky Gervais: Humanity,47,89,61,"['Comedy', 'Stand-Up']",TVMA,1h 18m,2018,"['Ricky Gervais', 'John L Spencer', 'Ricky Gervais']",['John L Spencer']
+Bedevilled,88,82,86,"['Mystery & Thriller', 'Horror']",,1h 55m,2010,"['Seo Young-hee', 'JI Sung-won', 'Hwang Hwa-sun', 'Park Jeong-hak', 'Oh Yong']",['Chul Soo Jang']
+Tomb Raider,53,55,53,"['Adventure', 'Action']",PG-13,1h 58m,2018,"['Alicia Vikander', 'Dominic West', 'Walton Goggins', 'Daniel Wu', 'Kristin Scott Thomas']",['Roar Uthaug']
+Marrowbone,49,70,56,"['Horror', 'Mystery & Thriller']",R,1h 50m,2017,"['George MacKay', 'Anya Taylor-Joy', 'Charlie Heaton', 'Mia Goth', 'Matthew Stagg']",['Sergio G Sanchez']
+God's Not Dead: A Light in Darkness,10,53,24,['Drama'],PG,1h 46m,2018,"['David A.R. White', 'John Corbett', 'Shane Harper', 'Ted McGinley', 'Jennifer Taylor']",['Michael Mason']
+Thank You for Your Service,76,73,75,"['War', 'Biography', 'Drama']",R,1h 48m,2017,"['Miles Teller', 'Haley Bennett', 'Joe Cole', 'Amy Schumer', 'Beulah Koale']",['Jason Hall']
+Andy Irons: Kissed by God,100,83,94,['Documentary'],,1h 55m,2018,"['Bruce Irons', 'Lyndie Irons', 'Kelly Slater', 'Steve Jones', 'Todd Jones']","['Steve Jones 3', 'Todd Jones 3']"
+End Game,100,78,92,['Documentary'],,40m,2018,"['Rob Epstein', 'Jeffrey Friedman', 'Zana Lawrence', 'Lisa Nishimura', 'Rob Epstein']","['Robert Epstein', 'Jeffrey Friedman 2']"
+Psychopaths,24,14,20,['Horror'],,1h 25m,2017,"['Ashley Bell', 'Jamie Ann Burke', 'Larry Fessenden', 'Angela Trimbur', 'Sam Zimmerman']",['Mickey Keating']
+Don's Party,83,63,76,"['Comedy', 'Drama']",,1h 30m,1976,"['John Hargreaves', 'Jeanie Drynan', 'Graeme Blundell', 'Veronica Lang', 'Ray Barrett']",['Bruce Beresford']
+Man vs Snake: The Long and Twisted Tale of Nibbler,90,76,85,['Documentary'],,1h 32m,2015,"['Walter Day', 'Dwayne Richard', 'Billy Mitchell', 'Tim Kinzy', 'Andrew Seklir']","['Tim Kinzy', 'Andrew Seklir 2']"
+Luis and the Aliens,24,58,35,"['Kids & Family', 'Comedy', 'Adventure', 'Sci-Fi', 'Animation']",PG,1h 26m,2018,"['Will Forte', 'Lea Thompson', 'Callum Maloney', 'Dermot Magennis', 'Paul Tylak']","['Wolfgang Lauenstein', 'Christoph Lauenstein']"
+The Hand of God,83,76,80,['Drama'],R,2h 10m,2021,"['Filippo Scotti', 'Toni Servillo', 'Teresa Saponangelo', 'Marlon Joubert', 'Luisa Ranieri']",['Paolo Sorrentino']
+Even Mice Belong in Heaven,100,89,96,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",,1h 20m,2021,"['Simona Berman', 'Graham Halstead', 'Ryan Andes', 'Major Attaway', ""Mary O'Brady""]","['Jan Bubenicek', 'Denisa Grimmova']"
+The Last Remake of Beau Geste,50,63,54,['Comedy'],PG,1h 24m,1977,"['Ann-Margret', 'Marty Feldman', 'Michael York', 'Peter Ustinov', 'James Earl Jones']",['Marty Feldman']
+The Polka King,67,50,61,"['Biography', 'Comedy', 'Drama', 'Music']",,1h 35m,2017,"['Jack Black', 'Jenny Slate', 'Jason Schwartzman', 'Jacki Weaver', 'J.B. Smoove']","['Maya Forbes', 'Wally Wolodarsky']"
+Ready Player One,72,77,73,"['Sci-Fi', 'Adventure', 'Action', 'Fantasy']",PG-13,2h 20m,2018,"['Tye Sheridan', 'Olivia Cooke', 'Ben Mendelsohn', 'Lena Waithe', 'T.J. Miller']",['Steve Spielberg']
+The Singing Revolution,83,82,82,['Documentary'],,1h 34m,2006,"['Linda Hunt', 'Maureen Castle Tusty', 'James Tusty', 'John Kusiak']","['Maureen Castle Tusty', 'James Tusty']"

@@ -1,0 +1,53 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+How I Got Into College,43,42,42,"['Romance', 'Comedy']",PG-13,1h 27m,1989,"['Anthony Edwards', 'Corey Parker', 'Lara Flynn Boyle', 'Finn Carter', 'Charles Rocket']",['Savage Steve Holland']
+Edge of Darkness,55,49,53,"['Mystery & Thriller', 'Crime', 'Drama']",R,1h 57m,2010,"['Mel Gibson', 'Ray Winstone', 'Danny Huston', 'Bojana Novakovic', 'Shawn Roberts']",['Martin Campbell']
+All Summers End,20,51,30,['Drama'],,1h 50m,2017,"['Tye Sheridan', 'Kaitlyn Dever', 'Austin Abrams', 'Annabeth Gish', 'Ryan Lee']",['Kyle Wilamowski']
+"The 5,000 Fingers of Dr. T.",82,74,79,"['Kids & Family', 'Fantasy']",G,1h 28m,1953,"['Peter Lind Hayes', 'Hans Conried', 'Tommy Rettig', 'Mary Healy', 'Jack Heasley']",['Roy Rowland']
+Benji,60,68,62,['Drama'],,1h 27m,2018,"['Gabriel Bateman', 'Darby Camp', 'Jerod Haynes', 'Gralen Bryant Banks', 'Angus Sampson']",['Brandon Camp']
+Sorry to Bother You,93,70,85,"['Comedy', 'Fantasy', 'Sci-Fi']",R,1h 45m,2018,"['LaKeith Stanfield', 'Tessa Thompson', 'Jermaine Fowler', 'Omari Hardwick', 'Terry Crews']",['Boots Riley']
+Edith+Eddie,78,71,75,['Documentary'],,29m,2017,"['Eddie Harrison', 'Edith Hill', 'Laura Checkoway', 'Cher', 'Steve James']",['Laura Checkoway']
+Monsoon,87,39,71,['Drama'],,1h 25m,2019,"['Henry Golding', 'Parker Sawyers', 'David Tran', 'Molly Harris', 'Edouard Leo']",['Hong Khaou']
+In a Relationship,60,38,52,"['Romance', 'Comedy']",,1h 32m,2018,"['Emma Roberts', 'Michael Angarano', 'Dree Hemingway', 'Patrick Gibson', 'Jay Ellis']",['Sam Boyd']
+Cruise,38,67,47,"['Romance', 'Drama']",,1h 30m,2018,"['Spencer Boldman', 'Emily Ratajkowski', 'Sebastian Maniscalco', 'Lucas Salvagno', 'Kathrine Narducci']",['Robert D Siegel']
+Solis,0,76,25,"['Sci-Fi', 'Adventure', 'Mystery & Thriller']",,1h 33m,2018,"['Steven Ogg', 'Alice Lowe', 'Carl Strathie', 'Carl Strathie', 'Charlette Kilby']",['Carl Strathie']
+The David Dance,33,73,46,"['Drama', 'LGBTQ+']",,1h 48m,2014,"['Don Scime', 'Guy Adkins', 'Antoinette LaVecchia', 'Jordan Baker', 'Tonye Patano']",['Aprill Winney']
+Back to Burgundy,73,64,70,"['Comedy', 'Drama']",,1h 53m,2017,"['Pio Marmaï', 'Ana Girardot', 'François Civil', 'Jean-Marc Roulot', 'María Valverde']",['Cedric Klapisch']
+Tig Notaro: Happy to Be Here,100,79,92,"['Comedy', 'Stand-Up']",,Comedy/Stand-up,2018,"['Tig Notaro', 'Tig Notaro', 'Tig Notaro']",['Tig Notaro']
+Freak Show,53,70,58,"['Comedy', 'Drama', 'LGBTQ+']",,1h 31m,2017,"['Alex Lawther', 'Abigail Breslin', 'AnnaSophia Robb', 'Bette Midler', 'Laverne Cox']",['Trudie Styler']
+The Swindlers,40,53,44,"['Crime', 'Drama', 'Mystery & Thriller']",,1h 57m,2017,"['Yoo Ji-tae', 'Hyun-bin', 'Bae Seong-woo', 'Park Sung-woong', 'Im Jin-Ah']",['Jang Chang Won']
+I'm Through With White Girls (The Inevitable Undoing of Jay Brooks),60,63,61,"['Romance', 'Comedy']",R,1h 33m,2007,"['Anthony Montgomery', 'Jennifer Sharp']",['Jennifer Sharp']
+The Rocket,95,83,91,['Drama'],,1h 36m,2013,"['Sitthiphon Deesamoe', 'Luknam Kaeosainam', 'Alice Keohavong', 'Sumrit Warin', 'Boonsri Yindee']",['Kim Mordaunt']
+Cannes Man,50,44,47,['Comedy'],R,1h 28m,1996,"['Seymour Cassel', 'Francesco Quinn', 'Rebecca Broussard', 'François Petit', 'Robert Hockley']","['Richard Martini', 'Susan Shapiro']"
+Boss,0,50,16,"['Action', 'Comedy']",,2h 23m,2013,"['Akshay Kumar', 'Aditi Rao Hydari', 'Shiv Pandit', 'Mithun Chakravarty', 'Ronit Roy']",['Anthony Dsouza']
+Alt-Right: Age of Rage,88,56,77,['Documentary'],,1h 44m,2018,"['Adam Bhala Lough', 'Alex Needles', 'Michael Karbelnikoff', 'Peter Kline']",['Adam Bhala Lough']
+Ethel,89,82,86,['Documentary'],,1h 37m,2012,"['Rory Kennedy', 'Mark Bailey', 'Rory Kennedy', 'Jack Youngelson', 'Sheila Nevins']",['Rory Kennedy']
+Boys on the Side,73,69,71,"['Comedy', 'Drama', 'LGBTQ+']",R,1h 57m,1995,"['Whoopi Goldberg', 'Mary-Louise Parker', 'Drew Barrymore', 'Matthew McConaughey', 'James Remar']",['Herbert Ross']
+Bob Lazar: Area 51 & Flying Saucers,17,44,26,['Documentary'],,1h 37m,2018,"['Bob Lazar', 'George Knapp', 'Jeremy Kenyon Lockyer Corbell', 'Mickey Rourke', 'Joy White']",['Jeremy Kenyon Lockyer Corbell']
+Nanpakal Nerathu Mayakkam,83,89,85,['Drama'],,1h 45m,2023,"['Mammootty', 'Ramya Pandian', 'Ashwanth Ashokkumar', 'Pramod Shetty', 'Ashokan']",['Lijo Jose Pellissery']
+Lipstick & Dynamite,62,57,60,['Documentary'],,1h 17m,2004,"['Ruth Leitman', 'Ruth Leitman', 'Ruth Leitman', 'Debbie Nightingale', 'Anne Hubbell']",['Ruth Leitman']
+Catch Me if You Can,96,89,93,"['Comedy', 'Drama', 'Crime']",PG-13,2h 20m,2002,"['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken', 'Martin Sheen', 'Nathalie Baye']",['Steve Spielberg']
+Becks,95,88,92,"['Drama', 'Music', 'LGBTQ+']",,1h 31m,2017,"['Lena Hall', 'Mena Suvari', 'Christine Lahti', 'Dan Fogler', 'Michael Zegen']","['Elizabeth Rohrbaugh', 'Daniel Powell']"
+"Ivan the Terrible, Part II",100,89,96,"['History', 'Drama']",,1h 27m,1958,"['Nikolay Cherkasov', 'Mikhail Zharov', 'Amvrosi Buchma', 'Mikhail Kuznetsov', 'Andrei Abrikosov']",['Sergei Eisenstein']
+First Reformed,94,69,85,"['Mystery & Thriller', 'Drama']",R,1h 53m,2017,"['Ethan Hawke', 'Amanda Seyfried', 'Philip Ettinger', 'Cedric the Entertainer', 'Michael Gaston']",['Paul Schrader']
+Maze Runner: The Death Cure,43,58,48,"['Sci-Fi', 'Adventure', 'Action', 'Mystery & Thriller']",PG-13,2h 22m,2018,"[""Dylan O'Brien"", 'Thomas Brodie-Sangster', 'Kaya Scodelario', 'Giancarlo Esposito', 'Rosa Salazar']",['Wes Ball']
+Pick of the Litter,97,89,94,['Documentary'],,1h 21m,2018,"['Dana Nachman', 'Don Hardy Jr.', 'Dana Nachman', 'Dan Braun', 'Ian Reinhard']","['Dana Nachman', 'Don Hardy']"
+Like Father,46,47,46,"['Comedy', 'Drama']",TVMA,1h 43m,2018,"['Kristen Bell', 'Kelsey Grammer', 'Seth Rogen', 'Zach Appelman', 'Paul W. Downs']",['Lauren Miller Rogen']
+The Banger Sisters,48,42,46,['Comedy'],R,1h 38m,2002,"['Goldie Hawn', 'Susan Sarandon', 'Geoffrey Rush', 'Erika Christensen', 'Eva Amurri Martino']",['Bob Dolman']
+The Revival,78,47,67,"['Drama', 'LGBTQ+']",,1h 25m,2017,"['Zachary Booth', 'David Carl', 'Stephen Ellis', 'Lucy Faust', 'Raymond McAnally']",['Jennifer Gerber 2']
+Who We Are Now,96,71,87,['Drama'],,1h 39m,2017,"['Julianne Nicholson', 'Emma Roberts', 'Zachary Quinto', 'Jimmy Smits', 'Jason Biggs']",['Matthew Newton']
+Devil's Gate,38,27,34,['Mystery & Thriller'],,1h 35m,2018,"['Amanda Schull', 'Milo Ventimiglia', 'Shawn Ashmore', 'Bridget Regan', 'Jonathan Frakes']",['Clay Staub']
+The Flame of New Orleans,29,55,37,"['Romance', 'Comedy', 'Drama']",,1h 19m,1941,"['Marlene Dietrich', 'Bruce Cabot', 'Roland Young', 'Mischa Auer', 'Andy Devine']",['Rene Clair 2']
+Little Pink House,80,81,80,['Drama'],,1h 39m,2017,"['Catherine Keener', 'Jeanne Tripplehorn', 'Colin Cunningham', 'Callum Keith Rennie', 'Aaron Douglas']",['Courtney Balaker']
+The Hornet's Nest,72,79,74,"['Documentary', 'Action', 'History', 'Drama']",R,1h 35m,2014,"['Mike Boettcher', 'Carlos Boettcher', 'Diane Sawyer', 'David Salzberg', 'Christian Tureaud']","['David Salzberg', 'Christian Tureaud']"
+On the Ropes,93,75,87,['Documentary'],,1h 34m,1999,"['Martin Goldman', 'Harry Keitt', 'Randy Little', 'Tyrene Manson', 'Mickey Marcello']","['Nanette Burstein', 'Brett Morgen']"
+The Affair,12,30,18,"['Drama', 'LGBTQ+']",,1h 44m,2019,"['Carice van Houten', 'Claes Bang', 'Hanna Alström', 'Petra Buckova', 'Olga Plojhar Bursikova']",['Julius Sevcik']
+Crime Without Passion,100,50,83,"['Crime', 'Drama']",,1h 12m,1934,"['Claude Rains', 'Margo', 'Whitney Bourne', 'Stanley Ridges', 'Leslie Adams']","['Ben Hecht', 'Charles Macarthur']"
+Beauties of the Night,100,75,91,['Comedy'],,1h 30m,1952,"['Michel Simon', 'Gérard Philipe', 'Nicole Besnard', 'Simone Valere', 'Carlo Ninchi']",['Rene Clair 2']
+Dead Presidents,49,78,58,['Drama'],R,1h 59m,1995,"['Larenz Tate', 'Keith David', 'Chris Tucker', ""N'Bushe Wright"", 'Freddy Rodríguez']","['Albert Hughes', 'Allen Hughes']"
+May It Last: A Portrait of the Avett Brothers,89,98,92,"['Documentary', 'Music']",,1h 44m,2017,"['Scott Avett', 'Seth Avett', 'Bob Crawford', 'Joe Kwon', 'Judd Apatow']","['Judd Apatow', 'Michael Bonfiglio']"
+The Gardener,75,79,76,['Documentary'],,1h 28m,2016,"['Sébastien Chabot', 'Sébastien Chabot', 'Sébastien Chabot', 'Michael Slack', 'Luc St. Pierre']",['Sebastien Chabot']
+Not Fade Away,68,42,59,['Drama'],R,1h 52m,2012,"['John Magaro', 'James Gandolfini', 'Bella Heathcote', 'Jack Huston', 'Will Brill']",['David Chase']
+Snapshots,71,93,78,['Drama'],,1h 35m,2018,"['Brett Dier', 'Brooke Adams', 'Piper Laurie', 'Max Adler', 'Emily Baldoni']",['Melanie Mayron']
+Raising Bertie,92,75,86,['Documentary'],,1h 42m,2016,"['Reginald Askew', 'Davonte Harrell', 'David Perry', 'Margaret Byrne', 'Margaret Byrne']",['Margaret Byrne']
+Tyler Perry's Boo 2! A Madea Halloween,4,40,15,"['Holiday', 'Comedy', 'Adventure']",PG-13,1h 41m,2017,"['Tyler Perry', 'Diamond White', 'Patrice Lovely', 'Cassi Davis', 'Taja V. Simpson']",['Tyler Perry']
+Ideal Home,68,66,67,"['Comedy', 'LGBTQ+']",,1h 31m,2018,"['Paul Rudd', 'Steve Coogan', 'Alison Pill', 'Jake McDorman', 'Jack Gore']",['Andrew Fleming']

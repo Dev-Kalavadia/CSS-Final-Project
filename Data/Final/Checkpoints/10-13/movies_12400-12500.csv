@@ -1,0 +1,56 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+The Island of Dr. Moreau,22,20,21,['Sci-Fi'],PG-13,1h 35m,1996,"['Marlon Brando', 'Val Kilmer', 'David Thewlis', 'Fairuza Balk', 'Ron Perlman']",['John Frankenheimer']
+Brain Dead,17,69,34,['Sci-Fi'],R,1h 25m,1990,"['Bill Pullman', 'Bill Paxton', 'Bud Cort', 'Nicholas Pryor', 'Patricia Charbonneau']",['Adam Simon']
+Leave No Trace,83,68,78,['Documentary'],,1h 48m,2022,"['Irene Taylor', 'Irene Taylor', 'Nigel Jacquiss', 'Sara Bernstein', 'Justin Wilkes']",['Irene Taylor 2']
+The Basement,20,27,22,['Horror'],,1h 30m,2018,"['Mischa Barton', 'Tracie Thoms', 'Bailey Anne Borders', 'Jackson Davis', 'Kareem J. Grimes']","['Brian M Conley', 'Nathan Ives']"
+Kodachrome,72,72,72,"['Comedy', 'Drama']",,1h 40m,2017,"['Jason Sudeikis', 'Ed Harris', 'Elizabeth Olsen', 'Bruce Greenwood', 'Wendy Crewson']",['Mark Raso']
+In the Blood,38,38,38,"['Action', 'Mystery & Thriller']",R,1h 48m,2014,"['Gina Carano', 'Cam Gigandet', 'Ismael Cruz Cordova', 'Luis Guzmán', 'Treat Williams']",['John Stockwell']
+Lucky Break,48,48,48,['Comedy'],PG-13,1h 47m,2001,"['James Nesbitt', 'Olivia Williams', 'Timothy Spall', 'Bill Nighy', 'Lennie James']",['Peter Cattaneo']
+The Girl Who Kicked the Hornet's Nest,53,66,57,['Mystery & Thriller'],R,2h 35m,2009,"['Michael Nyqvist', 'Noomi Rapace', 'Lena Endre', 'Annika Hallin', 'Jacob Ericksson']",['Daniel Alfredson 2']
+Puppet Master: The Littlest Reich,69,50,62,['Horror'],,1h 30m,2018,"['Michael Paré', 'Udo Kier', 'Barbara Crampton', 'Thomas Lennon', 'Jenny Pellicer']","['770867182', '770772236']"
+Bloodline,50,55,51,"['Horror', 'Mystery & Thriller']",R,1h 38m,2018,"['Seann William Scott', 'Mariela Garriga', 'Dale Dickey', 'Kevin Carroll', 'Christie Herring']",['Henry Jacobson']
+I Feel Pretty,34,35,34,['Comedy'],PG-13,1h 50m,2018,"['Amy Schumer', 'Michelle Williams', 'Rory Scovel', 'Emily Ratajkowski', 'Busy Philipps']","['Abby Kohn', 'Marc Silverstein']"
+House Party 3,0,67,22,['Comedy'],R,1h 33m,1994,"['Christopher Reid', 'Christopher Martin', 'David Edwards', 'Angela Means', 'Tisha Campbell-Martin']",['Eric Meza']
+Breaking,81,84,82,"['Crime', 'Drama', 'Mystery & Thriller']",PG-13,1h 43m,2022,"['John Boyega', 'Nicole Beharie', 'Selenis Leyva', 'Michael Kenneth Williams', 'Connie Britton']",['Abi Damaris Corbin']
+The Secret Lives of Dentists,85,58,76,"['Comedy', 'Drama']",R,1h 41m,2002,"['Campbell Scott', 'Hope Davis', 'Denis Leary', 'Robin Tunney', 'Gianna Beleno']",['Alan Rudolph']
+Pacific Rim Uprising,42,37,40,"['Sci-Fi', 'Action', 'Adventure', 'Fantasy']",PG-13,1h 51m,2018,"['John Boyega', 'Scott Eastwood', 'Jing Tian', 'Cailee Spaeny', 'Rinko Kikuchi']",['Steven S Deknight']
+The Stray,40,68,49,['Drama'],PG,1h 32m,2017,"['Michael Cassidy', 'Sarah Lancaster', 'Connor Corum', 'Enoch Ellis', 'Brennan Williams']",['Mitch Davis']
+Against All Odds,64,45,57,"['Crime', 'Drama']",R,2h 8m,1984,"['Rachel Ward', 'Jeff Bridges', 'James Woods', 'Alex Karras', 'Jane Greer']",['Taylor Hackford']
+Upgrade,88,87,87,"['Sci-Fi', 'Action', 'Horror']",R,1h 35m,2018,"['Logan Marshall-Green', 'Betty Gabriel', 'Harrison Gilbertson', 'Christopher Kirby', 'Simon Maiden']",['Leigh Whannell']
+White Boy Rick,57,50,54,"['Crime', 'Drama', 'Biography']",R,1h 51m,2018,"['Matthew McConaughey', 'Richie Merritt', 'Bel Powley', 'Jennifer Jason Leigh', 'Brian Tyree Henry']",['Yann Demange']
+The Visitor,90,84,88,['Drama'],PG-13,1h 43m,2007,"['Richard Jenkins', 'Hiam Abbass', 'Haaz Sleiman', 'Danai Gurira', 'Maggie Moore']",['Tom Mccarthy']
+Rampage,51,72,58,"['Action', 'Adventure', 'Sci-Fi']",PG-13,1h 47m,2018,"['Dwayne Johnson', 'Naomie Harris', 'Malin Akerman', 'Jeffrey Dean Morgan', 'Jake Lacy']",['Brad Peyton']
+The Carnivores,80,20,59,"['Mystery & Thriller', 'Comedy', 'Drama', 'Horror']",,1h 17m,2020,"['Tallie Medel', 'Lindsay Burdge', 'Frank Mosley', 'Vincent James Prendergast', 'Jason Newman']","['Caleb Michael Johnson', 'Caleb Johnson']"
+Eyewitness,75,37,62,['Mystery & Thriller'],R,1h 43m,1981,"['William Hurt', 'Sigourney Weaver', 'Christopher Plummer', 'James Woods', 'Irene Worth']",['Peter Yates']
+Kayak to Klemtu,50,62,53,['Adventure'],,1h 30m,2018,"['Evan Adams', 'Jared Ager-Foster', 'Carmel Amit', 'Sonja Bennett', ""Ta'kaiya Blaney""]",['Zoe Leigh Hopkins']
+Scorched Earth,18,40,25,['Action'],R,1h 34m,2018,"['Gina Carano', 'Ryan Robbins', 'John Hannah', 'Dean S. Jagger', 'Peter Howitt']",['Peter P Croudins']
+Renegades,11,40,20,"['Action', 'Mystery & Thriller']",PG-13,1h 46m,2017,"['Sullivan Stapleton', 'J.K. Simmons', 'Charlie Bewley', 'Clemens Schick', 'Diarmaid Murtagh']",['Steven Quale']
+Small Town Crime,79,68,75,"['Crime', 'Drama', 'Mystery & Thriller']",R,1h 31m,2017,"['John Hawkes', 'Anthony Anderson', 'Octavia Spencer', 'Robert Forster', 'Clifton Collins Jr.']","['Ian Nelms', 'Eshom Nelms']"
+The Tale of King Crab,90,69,83,"['Adventure', 'Drama']",,1h 46m,2021,"['Gabriele Silli', 'Maria Alexandra Lungu', 'Ercole Colnago', 'Bruno Di Giovanni', 'Giovanni Morichelli']","['Alessio Rigo De Righi', 'Matteo Zoppis']"
+Scream of the Wolf,100,50,83,['Horror'],,1h 25m,2022,"['James Fleet', 'John Henshaw', 'Nicky Evans', 'Thaila Zucchi', 'Sade Malone']",['Dominic Brunt']
+Westfront 1918,100,87,95,"['War', 'Drama']",,1h 30m,1930,"['Fritz Kampers', 'Gustav Diessl', 'Claus Clausen', 'Gustav Püttjer', 'Jackie Monnier']",['Gw Pabst']
+Capture the Flag,46,43,45,"['Kids & Family', 'Adventure', 'Animation']",PG,1h 37m,2015,"['Dani Rovira', 'Michelle Jenner', 'Carme Calvell', 'Javier Balas', 'Camilo García']",['Enrique Gato']
+Death of a Nation,0,88,29,['Documentary'],PG-13,1h 48m,2018,"[""Dinesh D'Souza"", ""Debbie D'Souza"", 'Angela Primm', 'Richard Spencer', 'Allen Guelzo']","['Dinesh Dsouza', 'Bruce Schooley']"
+(T)ERROR,91,74,85,['Documentary'],,1h 25m,2015,"['Lyric R. Cabral', 'David Felix Sutcliffe', 'Jonathan Oppenheim', 'Eugene Jarecki', 'Nick Fraser']","['Lyric R Cabral 2', 'David Felix Sutcliffe 2']"
+I Carry You With Me,97,83,92,"['Drama', 'Romance', 'LGBTQ+']",R,1h 51m,2020,"['Armando Espitia', 'Christian Vazquez', 'Michelle Rodríguez', 'Ángeles Cruz', 'Raúl Briones']",['Heidi Ewing']
+The House of Tomorrow,75,46,65,"['Comedy', 'Drama']",,1h 25m,2017,"['Ellen Burstyn', 'Nick Offerman', 'Asa Butterfield', 'Alex Wolff', 'Maude Apatow']",['Peter Livolsi']
+Filmworker,95,84,91,['Documentary'],,1h 34m,2017,"['Leon Vitali', ""Ryan O'Neal"", 'Danny Lloyd', 'Matthew Modine', 'R. Lee Ermey']",['Tony Zierra']
+Star Wars: The Last Jedi,91,42,74,"['Sci-Fi', 'Adventure', 'Action', 'Fantasy']",PG-13,2h 32m,2017,"['Mark Hamill', 'Carrie Fisher', 'Adam Driver', 'Daisy Ridley', 'John Boyega']",['1167238 Rian Johnson']
+Wonder Wheel,31,43,35,['Drama'],PG-13,1h 41m,2017,"['Kate Winslet', 'Justin Timberlake', 'Juno Temple', 'Jim Belushi', 'Max Casella']",['Woody Allen']
+And Then I Go,92,80,88,['Drama'],,1h 32m,2017,"['Arman Darbo', 'Sawyer Barth', 'Melanie Lynskey', 'Justin Long', 'Tony Hale']",['Vincent Grashaw']
+Jinn,91,78,86,['Drama'],,1h 31m,2018,"['Simone Missick', 'Zoe Renee', 'Hisham Tawfiq', 'Kelvin Harrison Jr.', 'Dorian Missick']",['Nijla Mumin']
+Bad Apple,60,43,54,['Drama'],,1h 30m,2015,"['Rhoda Griffis', 'Gregory Alan Williams', 'Ajiona Alexus', 'Chrystee Pharris', 'Darrin Dewitt Henson']",['Greg Galloway']
+A Kid Like Jake,51,45,49,['Drama'],R,1h 32m,2018,"['Claire Danes', 'Jim Parsons', 'Octavia Spencer', 'Priyanka Chopra Jonas', 'Ann Dowd']",['Silas Howard']
+That's Not Me,90,47,75,['Comedy'],,1h 25m,2017,"['Alice Foulcher', 'Isabel Lucas', 'Richard Davies', 'Belinda Misevski', 'Rowan Davie']",['Gregory Erdstein']
+Exorcist II: The Heretic,11,13,11,['Horror'],R,1h 57m,1977,"['Linda Blair', 'Richard Burton', 'Louise Fletcher', 'Max von Sydow', 'Kitty Winn']",['John Boorman']
+"Roman J. Israel, Esq.",55,57,55,"['Crime', 'Drama', 'Mystery & Thriller']",PG-13,1h 57m,2017,"['Denzel Washington', 'Colin Farrell', 'Carmen Ejogo', 'Lynda Gravatt', 'Amanda Warren']",['Dan Gilroy']
+The Infinite Man,95,60,83,['Comedy'],,1h 25m,2014,"['Josh McConville', 'Hannah Marshall', 'Alex Dimitriades', 'Hugh Sullivan', 'Hugh Sullivan']",['Hugh Sullivan 2']
+Minding the Gap,100,90,96,['Documentary'],,1h 33m,2018,"['Bing Liu', 'Bing Liu', 'Bing Liu', 'Diane Moy Quon', 'Sally Jo Fifer']",['Bing Liu 2']
+The 15:17 to Paris,23,37,27,"['Mystery & Thriller', 'Drama']",PG-13,1h 34m,2018,"['Spencer Stone', 'Alek Skarlatos', 'Anthony Sadler', 'Judy Greer', 'Jenna Fischer']",['Clint Eastwood']
+Marshall,80,84,81,"['History', 'Drama', 'Biography']",PG-13,1h 58m,2017,"['Chadwick Boseman', 'Josh Gad', 'Kate Hudson', 'Sterling K. Brown', 'Dan Stevens']",['Reggie Hudlin']
+Intensive Care,80,17,58,"['Action', 'Crime', 'Drama']",,1h 20m,2018,"['Tara Macken', 'Jai Rodriguez', 'Kevin Sizemore', 'Jose Rosete', 'Leslie Easterbrook']",['Jared Bentley 2']
+Imagining the Indian: The Fight Against Native American Mascoting,80,71,77,['Documentary'],,1h 35m,2021,"['Aviva Kempner', 'Ben West', 'Aviva Kempner', 'Ben West', 'Yocha Dehe Wintun Nation']","['Aviva Kempner', 'Ben West']"
+Octavio Is Dead,60,29,49,['Drama'],,Drama,2018,"['Sarah Gadon', 'Rosanna Arquette', 'Raoul Max Trujillo', 'Rachael Crawford', 'Gage Graham-Arbuthnot']",['1173492 Sook Yin Lee']
+The House That Jack Built,60,64,61,"['Mystery & Thriller', 'Crime', 'Drama']",R,2h 31m,2018,"['Matt Dillon', 'Bruno Ganz', 'Uma Thurman', 'Siobhan Fallon Hogan', 'Sofie Gråbøl']",['Lars Von Trier']
+The Mistress of Spices,11,42,21,"['Romance', 'Drama']",PG-13,1h 36m,2005,"['Aishwarya Rai', 'Dylan McDermott', 'Nitin Ganatra', 'Adewale Akinnuoye-Agbaje', 'Caroline Chikezie']",['Paul Mayeda Berges']
+Peter Rabbit 2: The Runaway,67,89,74,"['Kids & Family', 'Comedy', 'Fantasy', 'Adventure']",PG,1h 33m,2021,"['James Corden', 'Rose Byrne', 'Domhnall Gleeson', 'David Oyelowo', 'Elizabeth Debicki']",['Will Gluck']
