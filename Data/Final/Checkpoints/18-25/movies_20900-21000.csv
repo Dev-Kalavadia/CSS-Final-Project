@@ -1,0 +1,41 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+Born Losers,60,63,61,"['Crime', 'Drama']",PG,1h 52m,1967,"['Tom Laughlin', 'Elizabeth James', 'Jane Russell', 'Jeremy Slate', 'William Wellman Jr.']",['Tom Laughlin']
+The Circle,16,21,17,"['Mystery & Thriller', 'Drama', 'Sci-Fi']",PG-13,1h 50m,2017,"['Emma Watson', 'Tom Hanks', 'John Boyega', 'Karen Gillan', 'Ellar Coltrane']",['James Ponsoldt']
+Star Light,57,50,54,"['Horror', 'Mystery & Thriller']",,1h 30m,2020,"['Scout Taylor-Compton', 'Rahart Adams', 'Cameron Johnson', 'Liana Ramirez', 'Garrett Westton']","['Lee Cummings', 'Mitchell Altieri']"
+Sensation,13,83,36,"['Sci-Fi', 'Mystery & Thriller']",,1h 36m,2021,"['Eugene Simon', 'Emily Wyatt', 'Jennifer Martin', 'Alastair G. Cumming', 'Anil Desai']",['Martin Grof']
+High Heels and Low Lifes,20,50,29,"['Action', 'Comedy', 'Drama']",R,1h 25m,2001,"['Minnie Driver', 'Mary McCormack', 'Kevin R. McNally', 'Mark Williams', 'Danny Dyer']",['Mel Smith']
+Devil's Playground,56,69,60,['Documentary'],,1h 16m,2002,"['Faron Yoder', 'Emma Miller', 'Joann Hochstetler', 'Gerald Yutzy', 'Velda Bontrager']",['Lucy Walker']
+Vibes,13,62,29,"['Romance', 'Comedy']",PG,1h 39m,1988,"['Cyndi Lauper', 'Jeff Goldblum', 'Julian Sands', 'Googy Gress', 'Peter Falk']",['Ken Kwapis']
+I Don't Feel at Home in This World Anymore,89,77,85,"['Crime', 'Drama']",,1h 36m,2017,"['Melanie Lynskey', 'Elijah Wood', 'David Yow', 'Jane Levy', 'Devon Graye']",['Macon Blair']
+Cats & Dogs: The Revenge of Kitty Galore,13,38,21,"['Kids & Family', 'Comedy', 'Adventure']",PG,1h 22m,2010,"['James Marsden', 'Nick Nolte', 'Christina Applegate', 'Katt Williams', 'Bette Midler']",['Brad Peyton']
+Man on Fire,39,89,55,"['Crime', 'Drama']",R,2h 25m,2004,"['Denzel Washington', 'Dakota Fanning', 'Christopher Walken', 'Giancarlo Giannini', 'Radha Mitchell']",['Tony Scott']
+Overnight,78,71,75,['Documentary'],R,1h 55m,2003,"['Mark Brian Smith', 'Mark Brian Smith', 'Mark Brian Smith', 'Mark Brian Smith', 'Tony Montana']","['Mark Brian Smith', 'Tony Montana 6']"
+Two Who Dared: The Sharp's War,100,74,91,['Documentary'],,1h 15m,2016,"['Tom Hanks', 'Marina Goldman', 'Artemis Joukowsky', 'Ken Burns', 'Artemis Joukowsky']","['Artemis Joukowsky', 'Ken Burns']"
+The Dangerous Lives of Altar Boys,76,79,77,['Drama'],R,1h 45m,2002,"['Kieran Culkin', 'Jena Malone', 'Emile Hirsch', ""Vincent D'Onofrio"", 'Jodie Foster']",['Peter Care']
+King Lear,91,62,81,['Drama'],TV14,1h 55m,2018,"['Anthony Hopkins', 'Emma Thompson', 'Emily Watson', 'Florence Pugh', 'Jim Broadbent']",['Richard Eyre']
+Into the Blue,21,57,33,"['Adventure', 'Action', 'Mystery & Thriller']",PG-13,1h 50m,2005,"['Paul Walker', 'Jessica Alba', 'Scott Caan', 'Ashley Scott', 'Josh Brolin']",['John Stockwell']
+Wonder Woman 1984,58,73,63,"['Action', 'Adventure', 'Fantasy']",PG-13,2h 31m,2020,"['Gal Gadot', 'Chris Pine', 'Kristen Wiig', 'Pedro Pascal', 'Robin Wright']",['Patty Jenkins']
+Krystal,13,48,24,"['Comedy', 'Drama']",R,1h 33m,2017,"['Rosario Dawson', 'Nick Robinson', 'T.I.', 'Jacob Latimore', 'Grant Gustin']",['William H Macy']
+The Mercenary,80,76,78,['Western'],PG-13,1h 45m,1968,"['Franco Nero', 'Tony Musante', 'Jack Palance', 'Giovanna Ralli', 'Edorardo Fajardo']",['Sergio Corbucci']
+Eva Hesse,81,67,76,"['Documentary', 'Biography', 'History', 'Drama']",,1h 45m,2016,"['Selma Blair', 'Bob Balaban', 'Patrick Kennedy', 'Julia-Maria Köhler', 'Werner Nekes']",['Marcie Begleiter']
+Dawson City: Frozen Time,100,69,89,['Documentary'],,2h 0m,2016,"['Michael Phenicie', 'Kathy Jones-Gates', 'Bill Morrison', 'Bill Morrison', 'Bill Morrison']",['Bill Morrison 3']
+Mr. Saturday Night,57,38,50,"['Comedy', 'Drama']",R,1h 59m,1992,"['Billy Crystal', 'David Paymer', 'Julie Warner', 'Helen Hunt', 'Mary Mara']",['Billy Crystal']
+Negative Space,100,82,93,"['Fantasy', 'Drama', 'Animation']",G,5m,2017,"['Ru Kuwahata', 'Max Porter']","['Ru Kuwahata', 'Max Porter']"
+Evil Under the Sun,92,73,85,['Mystery & Thriller'],PG,1h 42m,1982,"['Peter Ustinov', 'Colin Blakely', 'Jane Birkin', 'Nicholas Clay', 'Maggie Smith']",['Guy Hamilton']
+The Flying Deuces,83,63,76,['Comedy'],,1h 5m,1939,"['Stan Laurel', 'Oliver Hardy', 'Jean Parker', 'James Finlayson', 'Reginald Gardiner']",['Edward Sutherland']
+A Cops and Robbers Story,71,100,80,"['Documentary', 'Biography']",,1h 24m,2020,"['Corey Pegues', 'Sean Grayson Fredericks', 'Raymond Lorenzo New', 'William P. Easter', 'June George Bell']",['Ilinca Calugareanu']
+Young Bodies Heal Quickly,73,30,58,"['Comedy', 'Drama']",,1h 42m,2014,"['Gabriel Croft', 'Julie Sokolowski', 'Hale Lytle', 'Daniel P. Jones', 'Alexandre Marouani']",['Andrew T Betzer']
+Fences,92,75,86,['Drama'],PG-13,2h 13m,2016,"['Denzel Washington', 'Viola Davis', 'Stephen Henderson', 'Jovan Adepo', 'Russell Hornsby']",['Denzel Washington']
+The Little Mermaid: Ariel's Beginning,33,57,41,"['Kids & Family', 'Fantasy', 'Animation']",G,1h 17m,2008,"['Jodi Benson', 'Samuel E. Wright', 'Jim Cummings', 'Sally Field', 'Parker Goris']",['Peggy Holmes']
+Helmut Newton: The Bad and the Beautiful,78,89,81,['Documentary'],,1h 33m,2020,"['Charlotte Rampling', 'Isabella Rossellini', 'Grace Jones', 'Anna Wintour', 'Claudia Schiffer']",['Gero Von Boehm 2']
+Assaulted: Civil Rights Under Fire,60,93,71,['Documentary'],PG-13,1h 19m,2013,"['Ice-T', 'Kris Koenig', 'Kris Koenig', 'Anita Ingrao', 'Eric Katzenberg']",['Kris Koenig']
+Free Ride,14,22,16,['Drama'],,1h 26m,2013,"['Anna Paquin', 'Drea de Matteo', 'Cam Gigandet', 'Liana Liberato', 'Ava Acres']",['Shannah Betz']
+Tracktown,73,50,65,['Drama'],,1h 29m,2016,"['Alexi Pappas', 'Chase Offerle', 'Rachel Dratch', 'Andy Buckley', 'Rebecca Friday']","['Jeremy Teicher', 'Alexi Pappas']"
+A Rumor of Angels,32,75,46,['Drama'],PG-13,1h 46m,2000,"['Vanessa Redgrave', 'Ray Liotta', 'Catherine McCormack', 'Trevor Morgan', 'Ron Livingston']",['Peter Ofallon']
+Edge of Darkness,55,49,53,"['Mystery & Thriller', 'Crime', 'Drama']",R,1h 57m,2010,"['Mel Gibson', 'Ray Winstone', 'Danny Huston', 'Bojana Novakovic', 'Shawn Roberts']",['Martin Campbell']
+Delicacy,62,57,60,"['Romance', 'Comedy']",PG-13,1h 49m,2011,"['Audrey Tautou', 'François Damiens', 'Bruno Todeschini', 'Mélanie Bernier', 'Joséphine de Meaux']","['David Foenkinos', 'Stephane Foenkinos']"
+Betrayed,100,100,99,"['History', 'Drama', 'War']",,2h 6m,2020,"['Nicolai Cleve Broch', 'Jakob Oftebro', 'Michal Kosterkiewicz', 'Pia Halvorsen', 'Silje Storstein']",['Eirik Svensson']
+Dodge City,100,75,91,['Western'],,1h 44m,1939,"['Errol Flynn', 'Olivia de Havilland', 'Ann Sheridan', 'Bruce Cabot', 'Frank McHugh']",['Michael Curtiz']
+Housesitter,36,47,39,['Comedy'],PG,1h 40m,1992,"['Steve Martin', 'Goldie Hawn', 'Dana Delany', 'Julie Harris', 'Donald Moffat']",['Frank Oz']
+Check It,100,40,79,['Documentary'],,1h 30m,2016,"['Dana Flor', 'Toby Oppenheimer', 'Dana Flor', 'Toby Oppenheimer', 'Paul Brill']","['Dana Flor', 'Toby Oppenheimer 6']"
+Beware the Slenderman,85,52,74,['Documentary'],,1h 57m,2016,"['Morgan Geyser', 'Anissa Weier', 'Irene Taylor', 'Sophie Harris']",['Irene Taylor 2']

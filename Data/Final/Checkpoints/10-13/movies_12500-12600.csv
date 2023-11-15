@@ -1,0 +1,52 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+Submission,51,50,50,['Drama'],R,1h 46m,2017,"['Stanley Tucci', 'Addison Timlin', 'Kyra Sedgwick', 'Janeane Garofalo', 'Ritchie Coster']",['Richard Levine']
+The First Purge,55,27,45,"['Action', 'Mystery & Thriller', 'Horror']",R,1h 37m,2018,"[""Y'lan Noel"", 'Lex Scott Davis', 'Joivan Wade', 'Mugga', 'Patch Darragh']",['Gerard Mcmurray']
+Ghost Rider: Spirit of Vengeance,19,31,23,"['Action', 'Fantasy']",PG-13,1h 36m,2011,"['Nicolas Cage', 'Idris Elba', 'Ciarán Hinds', 'Violante Placido', 'Fergus Riordan']","['Mark Neveldine', 'Brian Taylor']"
+Hidden in Plain Sight,78,70,75,['Documentary'],,1h 11m,2003,"['Martin Sheen', 'John Smihula', 'VÍvÍ Letsou', 'John Smihula', 'Andrès Thomas Conteris']",['John Smihula']
+"Game Over, Man!",18,47,27,"['Comedy', 'Action']",TVMA,1h 41m,2018,"['Adam DeVine', 'Anders Holm', 'Blake Anderson', 'Neal McDonough', 'Kyle Newacheck']",['Kyle Newacheck']
+Finian's Rainbow,53,52,52,['Fantasy'],G,2h 25m,1968,"['Fred Astaire', 'Petula Clark', 'Tommy Steele', 'Keenan Wynn', 'Al Freeman Jr.']",['Francis Ford Coppola']
+Suck,50,53,50,"['Comedy', 'Horror']",R,1h 31m,2009,"['Malcolm McDowell', 'Jessica Paré', 'Dave Foley', 'Nicole de Boer', 'Henry Rollins']",['Rob Stefaniuk']
+Paris,66,66,66,"['Comedy', 'Drama', 'Romance']",R,2h 8m,2008,"['Juliette Binoche', 'Romain Duris', 'Fabrice Luchini', 'Albert Dupontel', 'François Cluzet']",['Cedric Klapisch']
+Dark House,9,23,13,"['Horror', 'Mystery & Thriller']",R,1h 43m,2014,"['Luke Kleintank', 'Alex McKenna', 'Zack Ward', 'Lacey Anzelc', 'Ethan S. Smith']",['Victor Salva']
+Molly Moon and the Incredible Book of Hypnotism,29,40,32,"['Kids & Family', 'Adventure']",PG,1h 38m,2015,"['Dominic Monaghan', 'Lesley Manville', 'Emily Watson', 'Joan Collins', 'Raffey Cassidy']",['Christopher N Rowley']
+Lockdown,58,78,64,"['Drama', 'Action']",R,1h 41m,2003,"['Richard T. Jones', 'Gabriel Casseus', 'Melissa De Sousa', 'Bill Nunn', 'Clifton Powell']",['John Luessenhop']
+Bad Samaritan,53,66,57,['Mystery & Thriller'],R,1h 47m,2018,"['David Tennant', 'Robert Sheehan', 'Carlito Olivero', 'Kerry Condon', 'Jacqueline Byers']",['Dean Devlin']
+Pippi Longstocking,43,55,47,"['Kids & Family', 'Musical', 'Animation']",G,1h 15m,1997,"['Melissa Altro', ""Catherine O'Hara"", 'Carole Pope', 'David Thomas', 'Gordon Pinsent']","['Michael Schaack', 'Clive A Smith']"
+The Lodgers,57,38,50,"['Horror', 'Mystery & Thriller']",R,1h 33m,2017,"['Charlotte Vega', 'Bill Milner', 'Eugene Simon', 'David Bradley', ""Deirdre O'Kane""]",['Brian Omalley']
+Popstar: Never Stop Never Stopping,79,65,74,"['Comedy', 'Music']",R,1h 26m,2016,"['Andy Samberg', 'Jorma Taccone', 'Akiva Schaffer', 'Sarah Silverman', 'Tim Meadows']","['Akiva Schaffer', '1180165 Jorma Taccone']"
+The Road to Wellville,39,44,40,['Comedy'],R,2h 0m,1994,"['Anthony Hopkins', 'Bridget Fonda', 'Matthew Broderick', 'John Cusack', 'Dana Carvey']",['1042742 Alan Parker']
+Everything Everywhere All at Once,94,86,91,"['Comedy', 'Adventure', 'Sci-Fi', 'Fantasy']",R,2h 12m,2022,"['Michelle Yeoh', 'Stephanie Hsu', 'Ke Huy Quan', 'James Hong', 'Jamie Lee Curtis']","['Daniel Kwan 2', 'Daniel Scheinert']"
+Ratter,60,64,61,"['Mystery & Thriller', 'Drama']",R,1h 20m,2015,"['Ashley Benson', 'Matt McGorry', 'Karl Glusman', 'Rebecca Naomi Jones', 'Michael William Freeman']",['Branden Kramer 2']
+Strange Nature,43,74,53,['Mystery & Thriller'],,1h 40m,2018,"['Stephen Tobolowsky', 'John Morrison', 'Lisa Sheridan', 'Carlos Alazraqui', 'Tiffany Shepis']",['James Ojala 2']
+Flamin' Hot,69,88,75,"['Comedy', 'Drama', 'Biography']",PG-13,2h 9m,2023,"['Jesse Garcia', 'Annie Gonzalez', 'Emilio Rivera', 'Dennis Haysbert', 'Tony Shalhoub']",['Eva Longoria']
+The Miseducation of Cameron Post,86,76,82,"['Drama', 'LGBTQ+']",,1h 31m,2018,"['Chloë Grace Moretz', 'Marin Ireland', 'Jennifer Ehle', 'Quinn Shephard', 'John Gallagher Jr.']",['Desiree Akhavan']
+Pressure,38,23,33,['Mystery & Thriller'],R,1h 31m,2015,"['Danny Huston', 'Matthew Goode', 'Joe Cole', 'Alan McKenna', 'Ian Pirie']",['Ron Scalpello']
+The Chase,40,37,39,"['Action', 'Comedy']",PG-13,1h 28m,1994,"['Charlie Sheen', 'Kristy Swanson', 'Henry Rollins', 'Josh Mostel', 'Wayne Grace']",['Adam Rifkin']
+Goosebumps 2: Haunted Halloween,47,37,43,"['Holiday', 'Fantasy', 'Adventure', 'Comedy']",PG,1h 30m,2018,"['Madison Iseman', 'Jeremy Ray Taylor', 'Wendi McLendon-Covey', 'Caleel Harris', 'Chris Parnell']",['Ari Sandel']
+Future World,0,12,4,"['Mystery & Thriller', 'Sci-Fi', 'Action', 'Adventure']",R,1h 30m,2018,"['James Franco', 'Lucy Liu', 'Milla Jovovich', 'Suki Waterhouse', 'Jeffrey Wahlberg']","['James Franco', 'Bruce Thierry Cheung']"
+Daughters of the Sexual Revolution: The Untold Story of the Dallas Cowboys Cheerleaders,83,89,85,['Documentary'],,1h 18m,2018,"['Dana Adam Shapiro', 'Michael Antinoro', 'Will Staeger', 'Gregory Stern', 'Carra Greenberg']",['Dana Adam Shapiro']
+Garbage,60,45,55,"['Mystery & Thriller', 'Drama']",,1h 45m,2018,"['Tanmay Dhanania', 'Trimala Adhikari', 'Satarupa Das', 'Gitanjali Dang', 'Shruti Viswan']",['Qaushiq Mukherjee']
+One,61,74,65,['Drama'],,1h 28m,2000,"['Jason Cairns', 'Kane Picoy', 'Paul Herman', 'Autumn Macintosh', 'Ed Lynch']",['Tony Barbieri']
+Weirdos,93,96,94,['Drama'],,1h 25m,2016,"['Molly Parker', 'Allan Hawco', 'Julia Sarah Stone', 'Dylan Authors', 'Gary Levert']",['Bruce Mcdonald']
+Living Is Easy With Eyes Closed,94,77,88,['Drama'],,1h 48m,2013,"['Francesc Colomer', 'Javier Cámara', 'Ramon Fontserè', 'Natalia de Molina', 'Rogelio Fernández']",['David Trueba']
+Sadie,79,78,78,['Drama'],,1h 36m,2018,"['Sophia Mitri Schloss', 'Melanie Lynskey', 'John Gallagher Jr.', 'Tony Hale', 'Danielle Brooks']",['Megan Griffiths']
+My Heroes Have Always Been Cowboys,33,81,49,['Western'],PG,1h 46m,1991,"['Scott Glenn', 'Kate Capshaw', 'Ben Johnson', 'Balthazar Getty', 'Tess Harper']",['Stuart Rosenberg']
+Lez Bomb,89,65,81,"['Holiday', 'Comedy', 'LGBTQ+']",,1h 29m,2018,"['Elaine Hendrix', 'Cloris Leachman', 'Bruce Dern', 'Steve Guttenberg', 'Kevin Pollak']",['Jenna Laurenzo 2']
+Blood Into Wine,71,77,73,['Documentary'],,1h 40m,2010,"['Glenn Alexander', 'Tim Alexander', 'Fairuza Balk', 'Tom Beaujour', 'Hugh Chappelle']","['770701467', '770836939']"
+Hold the Dark,69,33,57,"['Mystery & Thriller', 'Adventure']",TVMA,2h 5m,2018,"['Jeffrey Wright', 'Alexander Skarsgård', 'James Badge Dale', 'Riley Keough', 'Julian Black Antelope']",['Jeremy Saulnier']
+Blink,64,45,57,['Mystery & Thriller'],R,1h 46m,1994,"['Madeleine Stowe', 'Aidan Quinn', 'Laurie Metcalf', 'James Remar', 'Peter Friedman']",['Michael Apted']
+Galveston,72,53,65,"['Mystery & Thriller', 'Crime', 'Drama']",,1h 31m,2018,"['Ben Foster', 'Elle Fanning', 'Lili Reinhart', 'María Valverde', 'Beau Bridges']",['Melanie Laurent']
+Atlantis: The Lost Empire,49,54,50,"['Kids & Family', 'Fantasy', 'Sci-Fi', 'Action', 'Adventure', 'Animation']",PG,1h 35m,2001,"['Michael J. Fox', 'James Garner', 'Cree Summer', 'Leonard Nimoy', 'Don Novello']","['Gary Trousdale', 'Kirk Wise 4']"
+The Aura,87,76,83,"['Crime', 'Drama', 'Mystery & Thriller']",,2h 14m,2005,"['Ricardo Darín', 'Dolores Fonzi', 'Pablo Cedrón', ""Jorge D'Elía"", 'Alejandro Awada']",['Fabian Bielinsky']
+See What I'm Saying: The Deaf Entertainers Documentary,83,100,88,['Documentary'],,1h 31m,2010,"['Hilari Scarl', 'Hilari Scarl', 'Kubilay Uner', 'Jeff Gatesman', 'Morgan R. Stiff']",['770697768']
+Wedding in Blood,100,66,88,"['Crime', 'Drama', 'Mystery & Thriller']",,1h 35m,1973,"['Michel Piccoli', 'Stéphane Audran', 'Clotilde Joano', 'Eliana De Santis', 'Daniel Lecourtois']",['Claude Chabrol']
+Three,89,42,73,"['Action', 'Mystery & Thriller']",,1h 27m,2016,"['Louis Koo', 'Wei Zhao', 'Wallace Chung', 'Hoi-Pang Lo', 'Siu-Fai Cheung']",['Johnny To']
+Ellen DeGeneres: Relatable,92,44,76,"['Comedy', 'Stand-Up']",,1h 8m,2018,"['Ellen DeGeneres', 'Joel Gallen', 'Tig Notaro']","['Joel Gallen', 'Tig Notaro']"
+Thoroughbreds,87,68,80,"['Comedy', 'Mystery & Thriller']",R,1h 30m,2017,"['Olivia Cooke', 'Anya Taylor-Joy', 'Anton Yelchin', 'Paul Sparks', 'Francie Swift']",['Cory Finley']
+Uncle Drew,61,48,56,['Comedy'],PG-13,1h 44m,2018,"['Kyrie Irving', 'Lil Rel Howery', 'Nick Kroll', ""Shaquille O'Neal"", 'Chris Webber']",['Charles Stone 2']
+Catching Feelings,100,58,85,"['Comedy', 'Drama']",,2h 4m,2017,"['Kagiso Lediga', 'Pearl Thusi', 'Andrew Buckland', 'Akin Omotoso', 'Precious Makgaretsa']",['Kagiso Lediga']
+Kevin & Perry Go Large,14,70,32,['Comedy'],R,1h 22m,2000,"['Harry Enfield', 'Kathy Burke', 'Rhys Ifans', 'Laura Fraser', 'James Fleet']",['Ed Bye']
+Generation Wealth,46,52,48,['Documentary'],R,1h 46m,2018,"['Lauren Greenfield', 'Bret Easton Ellis', 'Paris Cronin', 'Mijanou Bardot', 'Sheldon Greenfield']",['1199174 Lauren Greenfield']
+Ex Libris: The New York Public Library,97,61,84,['Documentary'],,3h 17m,2017,"['Ta-Nehisi Coates', 'Elvis Costello', 'Richard Dawkins', 'Patti Smith', 'Khalil Gibran Muhammad']",['Frederick Wiseman']
+Duck Butter,55,40,50,"['Comedy', 'Drama', 'LGBTQ+']",,1h 33m,2018,"['Alia Shawkat', 'Laia Costa', 'Mae Whitman', 'Hong Chau', 'Kate Berlant']",['Miguel Arteta']
+Terminal,21,36,26,"['Mystery & Thriller', 'Crime', 'Drama']",,1h 36m,2018,"['Margot Robbie', 'Simon Pegg', 'Dexter Fletcher', 'Mike Myers', 'Max Irons']",['Vaughn Stein']

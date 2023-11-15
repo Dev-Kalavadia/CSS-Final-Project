@@ -1,0 +1,49 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+Playing Mona Lisa,64,59,62,['Comedy'],R,1h 38m,2000,"['Alicia Witt', 'Harvey Fierstein', 'Brooke Langton', 'Johnny Galecki', 'Ivan Sergei']",['Matthew Huffman']
+47 Meters Down: Uncaged,45,68,52,"['Mystery & Thriller', 'Horror', 'Adventure']",PG-13,1h 29m,2019,"['Sophie Nélisse', 'Corinne Foxx', 'Brianne Tju', 'Sistine Stallone', 'John Corbett']",['Johannes Roberts']
+"How Much Does Your Building Weigh, Mr. Foster?",57,61,58,"['Documentary', 'Biography']",,1h 18m,2010,"['Deyan Sudjic', 'Carlos Carcas', 'Norberto López Amado', 'Deyan Sudjic', 'Antonio Sanz']","['Carlos Carcas', 'Norberto Lopez Amado']"
+Ghost Light,75,33,61,['Comedy'],,1h 42m,2018,"['Cary Elwes', 'Shannyn Sossamon', 'Danielle Campbell', 'Carol Kane', 'Tom Riley']",['John Stimpson']
+The Royal Road,82,100,88,['Documentary'],,1h 5m,2015,"['Jenni Olson', 'Jenni Olson', 'Julie Dorf', 'Jenni Olson', 'Paul Marcarelli']",['Jenni Olson']
+Darling Lili,40,69,49,['Musical'],G,1h 54m,1970,"['Julie Andrews', 'Rock Hudson', 'Jeremy Kemp', 'Lance Percival', 'Jacques Marin']",['Sam O Brown']
+Becoming Bulletproof,100,93,97,"['Documentary', 'Western']",,1h 20m,2014,"['Zack Gottsagen', 'Suzi Barrett', 'Dominique Dauwe', 'Karina Deyko', 'Michael Barnett']",['Michael Barnett 2']
+Buffalo Girls,44,53,47,['Documentary'],,1h 6m,2012,['Todd Kellstein'],['Todd Kellstein']
+The Watch,16,39,23,"['Comedy', 'Sci-Fi']",R,1h 41m,2012,"['Ben Stiller', 'Vince Vaughn', 'Jonah Hill', 'Richard Ayoade', 'Rosemarie DeWitt']",['Akiva Schaffer']
+Where's Poppa?,82,69,77,['Comedy'],R,1h 22m,1970,"['George Segal', 'Ruth Gordon', 'Trish Van Devere', 'Ron Leibman', 'Rae Allen']",['Carl Reiner']
+Downriver,82,54,72,"['Drama', 'LGBTQ+']",,1h 39m,2015,"['Reef Ireland', 'Kerry Fox', 'Robert Taylor', 'Helen Morse', 'Thom Green']",['Grant Scicluna']
+The Nice Guys,91,79,87,"['Action', 'Comedy', 'Mystery & Thriller']",R,1h 56m,2016,"['Russell Crowe', 'Ryan Gosling', 'Angourie Rice', 'Matt Bomer', 'Margaret Qualley']",['Shane Black']
+Daddy's Home 2,21,51,31,"['Holiday', 'Comedy']",PG-13,1h 38m,2017,"['Will Ferrell', 'Mark Wahlberg', 'Mel Gibson', 'John Lithgow', 'Linda Cardellini']",['Sean Anders']
+One of Our Aircraft Is Missing,100,67,88,['War'],,1h 46m,1942,"['Godfrey Tearle', 'Eric Portman', 'Hugh Williams', 'Bernard Miles', 'Hugh Burden']","['Michael Powell', 'Richard Imrie']"
+Outlaws and Angels,29,49,35,"['Western', 'Mystery & Thriller', 'Drama']",R,2h 0m,2016,"['Chad Michael Murray', 'Francesca Eastwood', 'Madisen Beaty', 'Ben Browder', 'Frances Fisher']",['Jt Mollner']
+They Look Like People,92,58,80,"['Drama', 'Horror', 'Mystery & Thriller']",,1h 20m,2015,"['MacLeod Andrews', 'Evan Dumouchel', 'Margaret Ying Drake', 'Mick Casale', 'Elena Greenlee']",['Perry Blackshear']
+Color Me Kubrick,51,42,48,"['Comedy', 'Drama']",,1h 26m,2005,"['John Malkovich', 'Jim Davidson', 'Richard E. Grant', 'Luke Mably', 'Terence Rigby']",['Brian W Cook']
+Another,38,39,38,"['Horror', 'Mystery & Thriller']",,1h 20m,2014,"['Ana Paula Redding', 'Leone Sergio Bognacki', 'David Landry', 'Maria Olsen', 'Lillian Pennypacker']",['Undefined']
+The Butcher's Son,47,73,55,"['Crime', 'Drama', 'Action']",R,1h 42m,2009,"['Manny Perez', 'Denise Quiñones', 'Juan Fernandez', 'Paul Calderone', 'Hemky Madera']",['Josh Crook 4']
+Eaten Alive,35,30,33,['Horror'],R,1h 30m,1976,"['Neville Brand', 'Mel Ferrer', 'Carolyn Jones', 'Marilyn Burns', 'William Finley']",['Tobe Hooper']
+Police Academy 5: Assignment Miami Beach,0,33,11,['Comedy'],PG,1h 29m,1988,"['Matt McCoy', 'Janet Jones', 'George Gaynes', 'Bubba Smith', 'G.W. Bailey']",['Alan Myerson']
+"Margarita, With a Straw",85,79,83,"['Drama', 'LGBTQ+']",,2h 20m,2014,"['Kalki Koechlin', 'Revathi', 'Sayani Gupta', 'Hussain Dalal', 'Tenzing Dalha']","['Shonali Bose', 'Nilesh Maniyar']"
+Restoration,71,58,66,['Drama'],R,1h 58m,1995,"['Robert Downey Jr.', 'Sam Neill', 'David Thewlis', 'Polly Walker', 'Meg Ryan']",['Michael Hoffman 7']
+La Grande Bouffe,63,82,69,['Comedy'],NC-17,2h 10m,1973,"['Marcello Mastroianni', 'Michel Piccoli', 'Ugo Tognazzi', 'Philippe Noiret', 'Andréa Ferréol']",['Marco Ferreri']
+Helicopter Mom,29,80,46,"['Comedy', 'LGBTQ+']",,1h 23m,2014,"['Nia Vardalos', 'Jason Dolley', 'Mark Boone Junior', 'Skyler Samuels', 'Devon Werkheiser']",['Salome Breziner 2']
+The Lords of Flatbush,64,43,57,"['Comedy', 'Drama']",PG,1h 26m,1974,"['Perry King', 'Sylvester Stallone', 'Henry Winkler', 'Paul Mace', 'Susan Blakely']","['Stephen Verona 4', 'Martin Davidson']"
+Unclaimed,67,78,70,['Drama'],,1h 21m,2012,"['Michael Jorgensen', 'Michael Jorgensen', 'Michael Jorgensen', 'Allan Leader', 'Jonathan Mathew']",['Michael Jorgensen']
+Lorna Doone,80,83,81,"['Romance', 'Drama']",,1h 15m,1922,"['Madge Bellamy', 'John Bowers', 'Frank Keenan', 'Donald MacDonald', 'Norris Johnson']",['Maurice Tourneur']
+Mad Tiger,67,59,64,"['Documentary', 'Comedy', 'Drama']",,1h 22m,2015,"['Kengo Hioki', 'Kotaro Tsukada', 'Yumiko Hioki', 'Akihiko Naruse', 'Jonathan Yi']","['Jonathan Yi', 'Michael Haertlein 2']"
+No Greater Love,100,94,97,['Documentary'],,1h 34m,2015,"['Justin Roberts', 'Justin Roberts', 'John Aglialoro', 'Priyank Desai', 'Brent Dones']",['Justin Roberts 2']
+The High Note,71,73,71,"['Comedy', 'Drama', 'Music']",PG-13,1h 53m,2020,"['Dakota Johnson', 'Tracee Ellis Ross', 'Kelvin Harrison Jr.', 'Ice Cube', 'Zoe Chao']",['Nisha Ganatra']
+Krampus,66,51,61,"['Holiday', 'Horror', 'Comedy', 'Fantasy']",PG-13,1h 38m,2015,"['Emjay Anthony', 'Adam Scott', 'Toni Collette', 'Stefania Owen', 'Krista Stadler']",['Michael Dougherty']
+Better Than Something: Jay Reatard,80,92,84,"['Documentary', 'Biography', 'Drama']",,1h 30m,2010,"['King Louie Bankston', 'Shawn Foree', 'Ryan Rousseau', 'Alicja Trout', 'Alix Brown']","['Alex Hammond', 'Ian Markiewicz']"
+Movement and Location,100,78,92,"['Drama', 'Sci-Fi', 'Mystery & Thriller']",,1h 36m,2014,"['Bodine Boling', 'Catherine Missal', 'Brendan Griffin', 'David Andrew Macdonald', 'Anna Margaret Hollyman']",['Alexis Boling 2']
+Sneakerheadz,62,42,55,['Documentary'],,1h 14m,2015,"['Rob Dyrdek', 'DJ Clark Kent', 'Jeff Staple', 'David T. Friendly', 'Mick Partridge']","['David T Friendly', 'Mick Partridge 2']"
+Female Agents,78,71,75,"['Action', 'Mystery & Thriller']",,2h 0m,2008,"['Sophie Marceau', 'Julie Depardieu', 'Marie Gillain', 'Déborah François', 'Moritz Bleibtreu']",['Jean Paul Salome']
+Get Down and Boogie,60,39,53,['Adventure'],PG,1h 23m,1975,"['Trina Parks', 'Roger E. Mosley', 'Shirley Washington', 'Norman Bartold', 'Frances E. Nealy']",['William Witney']
+A Place Among the Dead,57,94,69,"['Horror', 'Documentary', 'Drama']",,1h 16m,2020,"['Juliet Landau', 'Gary Oldman', 'Ron Perlman', 'Robert Patrick', 'Lance Henriksen']",['Juliet Landau']
+1915,40,81,53,"['Drama', 'Mystery & Thriller']",,1h 22m,2015,"['Simon Abkarian', 'Angela Sarafyan', 'Sam Page', 'Nikolai Kinski', 'Jim Piddock']","['Garin Hovannisian', 'Alec Mouhibian']"
+Subspecies,86,51,74,"['Horror', 'Fantasy']",R,1h 30m,1991,"['Michael Watson', 'Laura Mae Tate', 'Anders Hove', 'Angus Scrimm', 'Irina Movila']",['Ted Nicolaou']
+The Layover,0,21,7,['Comedy'],R,1h 28m,2017,"['Alexandra Daddario', 'Kate Upton', 'Matt Barr', 'Matt L. Jones', 'Molly Shannon']",['William H Macy']
+Worst to First: The True Story of Z100 New York,83,100,88,"['Documentary', 'History', 'Music']",,1h 4m,2022,"['Scott Shannon', 'Elvis Duran', 'Jon Bon Jovi', 'Nile Rodgers', 'Clive Davis']",['Mitchell Stuart']
+I Am Not a Serial Killer,93,61,82,['Mystery & Thriller'],,1h 44m,2016,"['Laura Fraser', 'Christopher Lloyd', 'Max Records', 'Karl Geary', 'Bruce Bohne']",['Billy Obrien']
+A Nightmare on Elm Street 5: The Dream Child,30,31,30,['Horror'],R,1h 30m,1989,"['Robert Englund', 'Lisa Wilcox', 'Danny Hassel', 'Kelly Jo Minter', 'Erika Anderson']",['Stephen Hopkins']
+The Independent,60,49,56,['Comedy'],R,1h 35m,2000,"['Jerry Stiller', 'Janeane Garofalo', 'Max Perlich', 'Ginger Lynn Allen', 'Billy Burke']",['Stephen Kessler']
+Bunker,11,33,18,"['Horror', 'Mystery & Thriller']",R,1h 47m,2022,"['Luke Baines', 'Kayla Radomski', 'Sean Cullen', 'Roger Clark', 'Julian Feder']",['Adrian Langley']
+Roseanne for President!,60,34,51,['Documentary'],,1h 37m,2015,"['Roseanne Barr', 'Michael Moore', ""Rosie O'Donnell"", 'Sandra Bernhard', 'Tom Smothers']",['Eric Weinrib']
+Little Monsters,80,100,86,"['Horror', 'Comedy']",,1h 34m,2019,"[""Lupita Nyong'o"", 'Josh Gad', 'Stephen Peacocke', 'Kat Stewart', 'Alexander England']",['Abe Forsythe']

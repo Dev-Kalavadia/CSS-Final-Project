@@ -1,0 +1,42 @@
+name,tomatometer,audience_score,weighted_score,genres,rating,duration,year,actors,directors
+Happy Hunting,100,47,82,"['Horror', 'Mystery & Thriller']",,1h 31m,2017,"['Martin Dingle Wall', 'Ken Lally', 'Kenny Wormald', 'Connor Williams', 'Gary Sturm']","['Joe Dietsch', 'Louie Gibson']"
+Dark Waters,90,95,91,"['Drama', 'Mystery & Thriller']",PG-13,2h 6m,2019,"['Mark Ruffalo', 'Anne Hathaway', 'Tim Robbins', 'Bill Camp', 'Victor Garber']",['Todd Haynes']
+The Power of the Dog,94,76,88,"['Western', 'Drama', 'Romance']",R,2h 8m,2021,"['Benedict Cumberbatch', 'Kirsten Dunst', 'Jesse Plemons', 'Kodi Smit-McPhee', 'Thomasin McKenzie']",['Jane Campion']
+Spirit: Stallion of the Cimarron,69,77,71,"['Kids & Family', 'Adventure', 'Animation']",G,1h 23m,2002,"['Matt Damon', 'James Cromwell', 'Daniel Studi', 'Chopper Bernet', 'Jeff LeBeau']","['Kelly Asbury', 'Lorna Cook']"
+The Unspeakable Act,89,63,80,['Drama'],,1h 31m,2012,"['Tallie Medel', 'Sky Hirschkron', 'Andrea Fares', 'Kati Schwartz', 'Caroline Luft']",['Dan Sallitt']
+Scooby-Doo on Zombie Island,88,79,85,"['Kids & Family', 'Comedy', 'Mystery & Thriller', 'Adventure', 'Animation']",,1h 17m,1998,"['Scott Innes', 'Billy West', 'Mary Kay Bergman', 'Frank Welker', 'B.J. Ward']",['Jim Stenstrum']
+Sympathy for Mr. Vengeance,53,85,63,['Drama'],R,2h 9m,2002,"['Song Kang-ho', 'Bae Doo-na', 'Han Bo-bae', 'Kim Se-dong', 'Lee Dae-yeon']",['Park Chanuk']
+Citizen Soldier Birds Eye View,86,66,79,"['Documentary', 'War']",R,1h 35m,2016,"['David Salzberg', 'Jordan Alex', 'Eran Harrill', 'David Salzberg', 'Christian Tureaud']","['David Salzberg', 'Christian Tureaud']"
+"Easter Bunny, Kill! Kill!",100,6,68,['Horror'],,1h 30m,2006,"['Timothy Muskatell', 'Ricardo Gray', 'Charlotte Marie', 'Trent Haaga', 'David Z. Stamp']",['Chad Ferrin']
+Swim Team,100,80,93,['Documentary'],,1h 40m,2016,"['Robert Justino', 'Kelvin Truong', 'Mikey McQuay', 'Lara Stolman', 'Lara Stolman']",['Lara Stolman']
+Niagara,78,68,74,['Mystery & Thriller'],,1h 29m,1953,"['Marilyn Monroe', 'Joseph Cotten', 'Jean Peters', 'Max Showalter', ""Denis O'Dea""]",['Henry Hathaway']
+Masterminds,34,35,34,"['Comedy', 'Action']",PG-13,1h 35m,2016,"['Zach Galifianakis', 'Owen Wilson', 'Kristen Wiig', 'Ross Kimball', 'Devin Ratray']",['Jared Hess']
+Born to Be Wild,98,84,93,"['Documentary', 'Adventure']",G,40m,2011,"['Morgan Freeman', 'David Lickley', 'Drew Fellman', 'Drew Fellman', 'David Douglas']",['David Lickley']
+Bastard Out of Carolina,100,84,94,['Drama'],R,1h 37m,1996,"['Jennifer Jason Leigh', 'Ron Eldard', 'Jena Malone', 'Glenne Headly', 'Lyle Lovett']",['Anjelicahuston']
+Champion,89,59,79,"['Comedy', 'Drama']",,1h 48m,2018,"['Ma Dong-seok', 'Kwon Yul', 'Han Ye-ri', 'Choi Seung-hoon', 'Ok Ye-rin']",['Kim Yong Wan']
+The Witch in the Window,69,54,64,"['Horror', 'Drama']",,1h 17m,2018,"['Arija Bareikis', 'Alex Draper', 'Charlie Tacker', 'Carol Stanzione', 'Greg Naughton']",['Andy Mitton']
+The Cowboy Way,20,59,33,['Comedy'],PG-13,1h 46m,1994,"['Woody Harrelson', 'Kiefer Sutherland', 'Dylan McDermott', 'Ernie Hudson', 'Cara Buono']",['Gregg Champion']
+Searching for Bobby Fischer,100,86,95,"['Biography', 'Drama']",PG,1h 50m,1993,"['Joe Mantegna', 'Max Pomeranc', 'Joan Allen', 'Ben Kingsley', 'Laurence Fishburne']",['Steve Zailian']
+Obsessed,19,46,28,"['Mystery & Thriller', 'Drama']",PG-13,1h 48m,2009,"['Idris Elba', 'Beyoncé', 'Ali Larter', 'Christine Lahti', 'Bruce McGill']",['Steve Shill']
+"2,000 Maniacs",45,50,46,['Horror'],,1h 15m,1964,"['Connie Mason', 'William Kerwin', 'Jeffrey Allen', 'Shelby Livingston', 'Ben Moore']",['Herschell Gordon Lewis']
+High Noon,94,89,92,['Western'],PG,1h 25m,1952,"['Gary Cooper', 'Grace Kelly', 'Katy Jurado', 'Thomas Mitchell', 'Lloyd Bridges']",['Fred Zinnemann']
+War Witch,94,78,88,"['Drama', 'War']",,1h 29m,2012,"['Rachel Mwanza', 'Alain Bastien', 'Serge Kanyinda', 'Ralph Prosper', 'Mizinga Mwinga']",['Kim Nguyen 2']
+Love Again,27,91,48,"['Romance', 'Comedy']",PG-13,1h 44m,2023,"['Priyanka Chopra Jonas', 'Sam Heughan', 'Céline Dion', 'Russell Tovey', 'Steve Oram']",['Jim Strouse']
+Man of the House,9,46,21,['Comedy'],PG-13,1h 40m,2005,"['Tommy Lee Jones', 'Cedric the Entertainer', 'Christina Milian', 'Paula Garcés', 'Monica Keena']",['Stephen Herek']
+Amazing Journey: The Story of the Who,80,92,84,"['Documentary', 'Music']",,1h 59m,2007,"['Paul Crowder', 'Roger Daltrey', 'Pete Townshend', 'Richard Barnes', 'Jeffrey Baxter']","['Murray Lerner', 'Paul Crowder']"
+Look Away,33,45,37,"['Comedy', 'Drama']",,1h 30m,2019,"['Shannon Tarbet', 'Aidan Turner', 'Benjamin Walker', 'Matthew Broderick', 'Chloë Sevigny']","['Monty Whitebloom', 'Andy Delaney']"
+He's Just Not That Into You,41,59,47,"['Romance', 'Comedy']",PG-13,2h 9m,2009,"['Ben Affleck', 'Jennifer Aniston', 'Drew Barrymore', 'Jennifer Connelly', 'Kevin Connolly']",['Ken Kwapis']
+The Big Squeeze,43,60,48,"['Comedy', 'Drama']",R,1h 47m,1996,"['Peter Dobson', 'Lara Flynn Boyle', 'Luca Bercovici', 'Danny Nucci', 'Teresa Dispina']",['Marcus Deleon']
+The Monster Project,50,47,48,"['Horror', 'Mystery & Thriller']",,1h 35m,2017,"['Toby Hemingway', 'Justin Bruening', 'Yvonne Zima', 'Jamal Quezaire', 'Murielle Zuker']",['Victor Mathieu']
+The Promise,51,92,64,"['History', 'Drama', 'Romance']",PG-13,2h 14m,2016,"['Oscar Isaac', 'Charlotte Le Bon', 'Christian Bale', 'Shohreh Aghdashloo', 'Marwan Kenzari']",['Terry George']
+Taking Sides,73,73,73,['Drama'],,1h 49m,2001,"['Harvey Keitel', 'Stellan Skarsgård', 'Moritz Bleibtreu', 'Birgit Minichmayr', 'Oleg Tabakov']",['Istvan Szabo']
+The Kids Are Back,20,36,25,['Comedy'],,1h 40m,2017,"['Carmen Maura', 'Cecilia Suárez', 'Irene Azuela', 'Takato Yonemoto', 'Erick Elías']",['Hugo Lara Chavez']
+Eloise,11,17,13,"['Horror', 'Mystery & Thriller']",R,1h 29m,2017,"['Eliza Dushku', 'Robert Patrick', 'Chace Crawford', 'Brandon T. Jackson', 'P.J. Byrne']",['Robert Legato 2']
+Road,82,90,84,['Documentary'],,1h 42m,2014,"['Liam Neeson', 'Michael Hewitt', 'Dermot Lavery', 'Michael Hewitt', 'Dermot Lavery']","['Michael Hewitt 2', 'Dermot Lavery']"
+Anthem,63,17,47,"['Documentary', 'Music', 'History']",PG,1h 38m,2023,"['Kris Bowers', 'Joy Harjo', 'Ruby Amanfu', 'DJ Dahi', 'Charity Bowden']",['Peter Nicks']
+Marjorie Prime,90,60,80,"['Comedy', 'Drama', 'Sci-Fi']",,1h 39m,2017,"['Geena Davis', 'Lois Smith', 'Jon Hamm', 'Tim Robbins', 'Stephanie Andujar']",['Michael Almereyda']
+Color Out of Space,86,82,84,"['Horror', 'Sci-Fi']",,1h 51m,2019,"['Nicolas Cage', 'Joely Richardson', 'Tommy Chong', 'Madeleine Arthur', 'Elliot Knight']",['Richard Stanley']
+Ping Pong Summer,59,32,49,['Comedy'],,1h 32m,2014,"['Marcello Conte', 'Judah Friedlander', 'Amy Sedaris', 'Lea Thompson', 'John Hannah']",['1129430 Michael Tully']
+Big Bad Wolves,76,69,73,"['Mystery & Thriller', 'Crime', 'Drama']",,1h 50m,2013,"['Lior Ashkenazi', 'Rotem Keinan', 'Tzahi Grad', 'Dov Glickman', 'Dvir Benedek']","['Aharon Keshales', 'Navot Papushado']"
+Homefront,42,61,48,"['Action', 'Mystery & Thriller']",R,1h 40m,2013,"['Jason Statham', 'James Franco', 'Winona Ryder', 'Kate Bosworth', 'Frank Grillo']",['Gary Fleder']
+Sharknado 5: Global Swarming,30,38,32,"['Action', 'Mystery & Thriller', 'Sci-Fi', 'Adventure', 'Comedy', 'Horror']",TV14,1h 30m,2017,"['Ian Ziering', 'Tara Reid', 'Cassandra Scerbo', 'Olivia Newton-John', 'Chris Kattan']",['Anthony C Ferrante']
